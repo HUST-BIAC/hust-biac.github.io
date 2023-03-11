@@ -7,7 +7,7 @@ subtitle: 实验室、测试中心
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 17:53:07
+ * @LastEditTime: 2023-03-11 21:27:37
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -228,19 +228,19 @@ subtitle: 实验室、测试中心
 
 <div class="t_grid">
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l24.jpg">
         <br>黄浩军
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l25.jpg">
         <br>李强
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l26.jpg">
         <br>钟祎
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l27.png">
         <br>金源茂丰
     </div>
 </div>
@@ -251,15 +251,15 @@ subtitle: 实验室、测试中心
 
 <div class="t_grid">
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l28.png">
         <br>喻莉
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l30.png">
         <br>彭凯
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l31.jpg">
         <br>杨鹏
     </div>
 </div>
@@ -270,27 +270,27 @@ subtitle: 实验室、测试中心
 
 <div class="t_grid">
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l32.jpg">
         <br>邱才明
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l33.jpg">
         <br>廖振宇
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l34.png">
         <br>万凯
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l35.jpg">
         <br>刘应状
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l36.png">
         <br>葛晓虎
     </div>
     <div>
-        <img class="grid_image" src="/default.png">
+        <img class="grid_image" src="/assets/img/team/l37.png">
         <br>天喻信息
     </div>
 </div>
