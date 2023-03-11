@@ -57,7 +57,7 @@ subtitle: 研究方向
 镭射复合膜经过涂布后，用模压机在其表面进行模压产生镭射效果的PET或OPP薄膜包装材料。素面镭射是镭射效果中的一种，镭射效果的种类取决于模压机上的模压版类型，基于受激辐射光放大原理产生的相干辐射，在经过印刷复合等工艺形成镭射复合膜。
     
 <div align="center">
-    <img style="height: 300px;" src="/assets/img/researchs/10/image003.png">
-    <img style="height: 300px;" src="/assets/img/researchs/10/image004.png">
-    <img style="height: 300px;" src="/assets/img/researchs/10/image005.png">
+    <img style="height: 150px;" src="/assets/img/researchs/10/image003.png">
+    <img style="height: 150px;" src="/assets/img/researchs/10/image004.png">
+    <img style="height: 150px;" src="/assets/img/researchs/10/image005.png">
 </div> 
