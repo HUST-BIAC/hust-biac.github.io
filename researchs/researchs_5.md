@@ -7,7 +7,7 @@ subtitle: 研究方向
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 18:38:05
+ * @LastEditTime: 2023-03-11 20:50:30
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -31,3 +31,6 @@ subtitle: 研究方向
 
 ### 多媒体（数字）防伪与安全
 
+主要研究网络空间安全，图像、视频的伪造与检测，基于VR技术的防伪与鉴伪、元宇宙技术多媒体防伪技术研究。
+
+[材料需要补充]
