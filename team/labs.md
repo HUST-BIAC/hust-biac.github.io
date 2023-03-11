@@ -7,7 +7,7 @@ subtitle: 实验室、测试中心
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 21:27:37
+ * @LastEditTime: 2023-03-11 21:29:19
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -278,19 +278,19 @@ subtitle: 实验室、测试中心
         <br>廖振宇
     </div>
     <div>
-        <img class="grid_image" src="/assets/img/team/l34.png">
+        <img class="grid_image" src="/assets/img/team/l35.jpg">
         <br>万凯
     </div>
     <div>
-        <img class="grid_image" src="/assets/img/team/l35.jpg">
+        <img class="grid_image" src="/assets/img/team/l36.png">
         <br>刘应状
     </div>
     <div>
-        <img class="grid_image" src="/assets/img/team/l36.png">
+        <img class="grid_image" src="/assets/img/team/l37.png">
         <br>葛晓虎
     </div>
     <div>
-        <img class="grid_image" src="/assets/img/team/l37.png">
+        <img class="grid_image" src="/assets/img/team/l38.png">
         <br>天喻信息
     </div>
 </div>
