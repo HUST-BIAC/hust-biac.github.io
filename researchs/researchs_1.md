@@ -7,7 +7,7 @@ subtitle: 研究方向
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 18:34:22
+ * @LastEditTime: 2023-03-11 20:38:17
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -31,3 +31,36 @@ subtitle: 研究方向
 
 ### 人工智能与机器视觉
 
+主要研究基于人工智能及智能物联相关的防伪、鉴伪理论与技术，图像、自然语言如文字、语音识别理论及技术、自主识别多功能机器人、运动评测机器人。
+
+#### 基于人工智能及智能物联相关的防伪、鉴伪理论与技术
+---
+
+提出了基于人工智能的多模态、多视角鉴伪算法。
+
+<div align="center">
+    <img style="height: 250px;" src="/assets/img/researchs/1/image001.png">
+</div> 
+
+#### 图像、自然语言识别理论及技术
+---
+
+<div align="center">
+    <img style="height: 250px;" src="/assets/img/researchs/1/image002.png">
+    <img style="height: 290px;" src="/assets/img/researchs/1/image003.png">
+</div> 
+ 
+
+#### 运动评测机器人
+---
+ 
+<div align="center">
+    <img style="height: 200px;" src="/assets/img/researchs/1/image004.png">
+    <img style="height: 200px;" src="/assets/img/researchs/1/image006.gif">
+    <img style="height: 200px;" src="/assets/img/researchs/1/image007.gif">
+    <img style="height: 200px;" src="/assets/img/researchs/1/image008.gif">
+    <img style="height: 200px;" src="/assets/img/researchs/1/image009.gif">
+</div> 
+  
+ 
+ 
