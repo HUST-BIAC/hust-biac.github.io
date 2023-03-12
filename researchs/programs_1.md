@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 18:17:44
+ * @LastEditTime: 2023-03-12 17:35:06
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -35,14 +35,12 @@ cover-img: /assets/img/title.jpg
 </script>
 
 <div class="t_grid">
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_index">国家级科研项目</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_selected" href="/researchs/programs_1">省部级科研项目</a>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_index">部分国家级科研项目</a>
+    <a class="btn btn-info btn-lg get-started-btn btn_selected" href="/researchs/programs_1">部分省部级科研项目</a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_2">其他科研项目</a>
 </div>
 
-### 省部级科研项目
-
-国家防伪工程技术研究中心先后承担省部级科研项目XX项目，包括湖北省重点研发计划、湖北省技术创新专项重大项目、教育部博士点基金、湖北省自然科学基金重点项目等。
+<p></p>
 
 <table>
     <thead>

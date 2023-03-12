@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 中心概况
-subtitle: 中心目标与定位
+# title: 中心概况
+# subtitle: 中心目标与定位
 cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 14:15:21
+ * @LastEditTime: 2023-03-12 16:47:34
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -62,7 +62,7 @@ cover-img: /assets/img/title.jpg
 
 
 <!-- ppt118-119 -->
-## 中心总体建设目标
+## 中心目标与定位
 ---
 
 <div class="t_grid">
@@ -95,7 +95,6 @@ cover-img: /assets/img/title.jpg
     </div>
 </div>
 
-## 研发方向总体思路
 ---
 
 <div class="t_grid_1">

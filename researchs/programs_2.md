@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 11:40:57
+ * @LastEditTime: 2023-03-12 17:22:43
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -35,12 +35,12 @@ cover-img: /assets/img/title.jpg
 </script>
 
 <div class="t_grid">
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_index">国家级科研项目</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_1">省部级科研项目</a>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_index">部分国家级科研项目</a>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_1">部分省部级科研项目</a>
     <a class="btn btn-info btn-lg get-started-btn btn_selected" href="/researchs/programs_2">其他科研项目</a>
 </div>
 
-### 其他科研项目
+<p></p>
 
 <table>
     <thead>
@@ -117,13 +117,6 @@ cover-img: /assets/img/title.jpg
             <td>幼儿体育动作评测数据库系统可视化平台研发 </td>
             <td></td>
             <td>2021-2022</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>湖北省重点研发计划</td>
-            <td>慢性阻塞性肺疾病的中医智能诊疗关键技术与应用</td>
-            <td>2020BAB027</td>
-            <td>2020-2022</td>
         </tr>
         <tr>
             <td></td>
@@ -206,46 +199,7 @@ cover-img: /assets/img/title.jpg
             <td>20045006071-17</td>
             <td>2004-2007</td>
         </tr>
-        <tr>
-            <td></td>
-            <td>香港研究资助局基金</td>
-            <td>Off-line Text-independent Writer Identification of
-                Handwriting
-                Document Using Non-separable Wavelet Transform</td>
-            <td>RGC/HKBU210309</td>
-            <td>2009-2010</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>香港研究资助局基金</td>
-            <td>Off-line English and Chinese Writer Identification</td>
-            <td>RGC/HKBU211405</td>
-            <td>2005-2007</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>香港研究资助局基金</td>
-            <td>Automatic Biometric Personal Identification with Ridgelet
-                Transform</td>
-            <td>FRG/04-05/II-14</td>
-            <td>2004-2005</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>香港研究资助局基金</td>
-            <td>Wavelet-Based Approach to Shape Skeletonization</td>
-            <td>FRG/03-04/II-18</td>
-            <td>2003-2004</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>香港研究资助局基金</td>
-            <td>An Improvement of Mallat's Method on Singularity Detection
-                and
-                Processing with Wavelets</td>
-            <td>RGC/00-01/57</td>
-            <td>2001-2003</td>
-        </tr>
+        
         <tr>
             <td></td>
             <td>横向项目</td>

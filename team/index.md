@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 18:42:56
+ * @LastEditTime: 2023-03-12 17:40:20
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -25,5 +25,6 @@ cover-img: /assets/img/title.jpg
 <div align="center">
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/team/talent">杰出人才</a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/team/distinguishedProfessors">特聘教授</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/team/labs">实验室、测试中心</a>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/team/labs">研究机构</a>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/team/test">测试机构</a>
 </div>

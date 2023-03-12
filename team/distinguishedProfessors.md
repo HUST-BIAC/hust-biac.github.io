@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 17:06:16
+ * @LastEditTime: 2023-03-12 16:59:43
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -24,7 +24,7 @@ cover-img: /assets/img/title.jpg
 
 ## 特聘教授
 
-国家防伪工程技术研究中心目前有特聘教授7名。
+<p></p>
 
 <div class="t_grid">
     <div>
@@ -41,14 +41,6 @@ cover-img: /assets/img/title.jpg
     <div>
         <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">陶大程</a>
         ，澳大利亚科学院院士、欧洲科学院外籍院士，中国科学技术大学工学学士、香港中文大学哲学硕士、英国伦敦大学哲学博士。毕业后，陶大程先后在中国香港理工大学计算学系担任助理教授，新加坡南洋理工大学担任南洋助理教授，澳大利亚悉尼科技大学工程与信息技术学院担任教授，悉尼大学担任教授、PeterNicolRussell讲习教授、澳大利亚桂冠教授。陶大程现任京东探索研究院首任院长，清华大学智能产业研究院（AIR）担任卓越访问教授、中国科学技术大学大师讲席教授、悉尼大学数字科学研究所顾问及首席科学家。
-    </div>
-
-    <div>
-        <img src="/assets/img/team/d3.png">
-    </div>
-    <div>
-        <a href="https://research.hkbu.edu.hk/sc/news/cheung-yiu-ming-solving-real-world-problems">张晓明</a>
-        (CHEUNG, Yiu-ming)为香港浸会大学（浸大）人工智能讲席教授、浸大研究生院副 院长、深圳研究院院长以及计算和理论科学研究所副所长, 是 IEEE Fellow、AAAS Fellow、 IET Fellow、英国计算机学会 Fellow, 以及教育部长江学者(讲座教授),列入 2020 至 2022 年史丹福大学所发表的人工智能与图像处理专业领域世界顶尖科学家排名前 1%。张教授现为 IEEE Transactions on Emerging Topics in Computational Intelligence 主编。 此外，他也是 IEEE 计算智能学会香港分会始创者及前任主席，曾于 2018-2022 年担任 IEEE 计算机学会智能信息学委员会（TCII）主席。张晓明教授长期从事机器学习与视觉 计算以及其在数据科学、模式识别、多目标优化及信息安全等应用领域的研究, 在相关国际著名期刊及学术会议上。
     </div>
 
     <div>
@@ -87,5 +79,13 @@ cover-img: /assets/img/title.jpg
         <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/yiu-wing-mai.html">Yiu-Wing Mai</a> <br>
         Professor Yiu-Wing Mai is distinguished for seminal work on fracture mechanics and materials science of advanced engineering materials. He joined the University of Sydney in 1976. Through his many publications in the past four decades, Mai has made outstanding and lasting contributions to scientific and engineering knowledge in several research areas.
 
+    </div>
+
+    <div>
+        <img src="/assets/img/team/d3.png">
+    </div>
+    <div>
+        <a href="https://research.hkbu.edu.hk/sc/news/cheung-yiu-ming-solving-real-world-problems">张晓明</a>
+        (CHEUNG, Yiu-ming)为香港浸会大学（浸大）人工智能讲席教授、浸大研究生院副 院长、深圳研究院院长以及计算和理论科学研究所副所长, 是 IEEE Fellow、AAAS Fellow、 IET Fellow、英国计算机学会 Fellow, 以及教育部长江学者(讲座教授),列入 2020 至 2022 年史丹福大学所发表的人工智能与图像处理专业领域世界顶尖科学家排名前 1%。张教授现为 IEEE Transactions on Emerging Topics in Computational Intelligence 主编。 此外，他也是 IEEE 计算智能学会香港分会始创者及前任主席，曾于 2018-2022 年担任 IEEE 计算机学会智能信息学委员会（TCII）主席。张晓明教授长期从事机器学习与视觉 计算以及其在数据科学、模式识别、多目标优化及信息安全等应用领域的研究, 在相关国际著名期刊及学术会议上。
     </div>
 </div>

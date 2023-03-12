@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 09:59:23
+ * @LastEditTime: 2023-03-12 17:30:46
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -17,7 +17,7 @@ cover-img: /assets/img/title.jpg
 <style>
     .t_grid {
         display: grid;
-        grid-template-columns: 32% 32% 32%;
+        grid-template-columns: 24% 24% 24% 24%;
         grid-gap: 60px 1%;
     }
 
@@ -34,9 +34,7 @@ cover-img: /assets/img/title.jpg
     <a class="btn btn-info btn-lg get-started-btn btn_selected" href="/cooperations/services_2">国内外大型企业</a>
 </div>
 
-### 服务国内外大型企业
-
-国家防伪工程技术研究中心和国内外大型企业、知名企业建立了良好的合作关系，包括中国银联、中国银行、中国烟草等。
+<p></p>
 
 <div class="t_grid">
     <div align="center">

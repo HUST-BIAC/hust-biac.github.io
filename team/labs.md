@@ -8,35 +8,11 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 11:41:39
+ * @LastEditTime: 2023-03-12 17:42:27
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
 -->
-
-<style>
-.t_grid {
-    display: grid;
-    grid-template-columns: 16% 16% 16% 16% 16%;
-    grid-gap: 15px 2%;
-    text-align: center;
-}
-
-.t_grid_twocolumns {
-    display: grid;
-    grid-template-columns: 80% 20%;
-    grid-gap: 15px 2%;
-    /* text-align: center; */
-}
-
-.grid_image {
-    height: 130px;
-}
-</style>
-
-## 实验室、测试中心
-
-国家防伪工程技术研究中心目前有10个实验室和两个测试中心。各实验室及研究中心的核心成员包括：
 
 <!-- 解孝林 http://chem.hust.edu.cn/info/1172/3081.htm
 廖永贵 http://faculty.hust.edu.cn/liaoyonggui/zh_CN/index.htm
@@ -72,262 +48,99 @@ cover-img: /assets/img/title.jpg
 葛晓虎 http://eic.hust.edu.cn/professor/gexiaohu/index.html
 天喻信息 http://www.whty.com.cn -->
 
-### 实验室
+<link rel="stylesheet" type="text/css" href="/assets/css/user.css">
+
+### 研究机构
 
 #### 防伪功能材料与结构实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l1.jpg">
-        <br>解孝林
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l2.jpg">
-        <br>廖永贵
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l3.jpg">
-        <br>薛志刚
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l4.jpg">
-        <br>彭海炎
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l5.jpg">
-        <br>朱锦涛
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l6.jpg">
-        <br>张连斌
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l7.png">
-        <br>邓仁华
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l8.png">
-        <br>许江平
-    </div>
-</div>
+主要研究激光全息高分子材料；自组装光学防伪材料。
+
+- <strong class="h_01">负责人</strong> ：XXX
+- <strong class="h_02">研发骨干</strong> ：解孝林，廖永贵，薛志刚，彭海炎，朱锦涛，张连斌，邓仁华，许江平
 
 #### 光学全息技术实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l9.png">
-        <br>杨铀
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l10.png">
-        <br>刘琼
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l11.png">
-        <br>梁昆
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l12.jpg">
-        <br>华工图像
-    </div>
-</div>
+主要研究多维成像技术、多光谱成像、光栅衍射与加密理论及技术。
+
+- <strong class="h_01">负责人</strong> ：葛宏伟
+- <strong class="h_02">研发骨干</strong> ：杨铀，刘琼，梁昆，张静，刘畅，于汉祥，汪昱坤，廖莎，舒欢，赵思，刘京，杨青
+
 
 #### 防伪印制工艺及设备实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l12.jpg">
-        <br>华工图像
-    </div>
-</div>
+主要研究金融票据、防伪证照、防伪标识多光谱多模态防伪成像印制工艺、印制设备、印制过程中智能检测与识别技术及设备， 如凹印机及凹印检测、微缩成像印制及检测。
+
+- <strong class="h_01">负责人</strong> ：杨志方
+- <strong class="h_02">研发骨干</strong> ：熊丽端、肖烜、周聪、申政、王慧、王佳成、孙林辉
+
 
 #### 人工智能与机器视觉实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l13.jpg">
-        <br>尤新革
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l14.jpg">
-        <br>邵远杰
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l15.png">
-        <br>王兴刚
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l16.png">
-        <br>杨欣
-    </div>
-</div>
+主要研究基于人工智能及智能物联相关的防伪、鉴伪理论与技术， 图像、自然语言如文字、语音识别理论及技术、自主识别多功能机器人、 运动评测机器人。
+
+- <strong class="h_01">负责人</strong> ： XXX
+- <strong class="h_02">研发骨干</strong> ：尤新革，邵远杰，王兴刚，杨欣
 
 #### 信息加密与对抗实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l17.jpg">
-        <br>袁巍
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l12.jpg">
-        <br>华工图像
-    </div>
-</div>
+多光谱成像、光栅加密、运用全息印刷技术做出防伪标识、隐形标识系统、激光编码等技术。
+
+- <strong class="h_01">负责人</strong> ： XXX
+- <strong class="h_02">研发骨干</strong> ：袁巍
 
 #### 防伪检测与设备实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l13.jpg">
-        <br>尤新革
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l18.jpg">
-        <br>徐端全
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l19.jpg">
-        <br>彭勤牧
-    </div>
-</div>
+主要研究各类货币及防伪票据、证照的多光谱防伪特征成像及获取技术、多模态防伪特征融合鉴伪与识别、防伪检测装备及系统、金融票据检测装备、 多国货币鉴伪、清分设备、防伪文检鉴伪及检测装备。
+
+- <strong class="h_01">负责人</strong> ： 徐端全
+- <strong class="h_02">研发骨干</strong> ：徐端全，尤新革，彭勤牧
 
 #### 生物特征识别与智能信息系统实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l17.jpg">
-        <br>袁巍
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l19.jpg">
-        <br>彭勤牧
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l20.jpg">
-        <br>江国星
-    </div>
-</div>
+主要研究人脸、虹膜、指纹等生物特征识别理论及相关技术，生物特征伪造识别与检测，多应用场景生物特征识别技术、传感器及芯片技术。
+
+- <strong class="h_01">负责人</strong> ： 袁巍
+- <strong class="h_02">研发骨干</strong> ：袁巍，彭勤牧
 
 #### 区块链与防伪溯源实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l24.jpg">
-        <br>黄浩军
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l25.jpg">
-        <br>李强
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l26.jpg">
-        <br>钟祎
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l27.png">
-        <br>金源茂丰
-    </div>
-</div>
+主要研究区块链技术、基于区块链技术的产品溯源与防伪、数字货币技术、数字货币与实体货币信息交换技术与终端装备。
+
+- <strong class="h_01">负责人</strong> ： 袁巍
+- <strong class="h_02">研发骨干</strong> ：黄浩军，李强，钟祎，王世杰
 
 #### 多媒体（数字）防伪与安全实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l28.png">
-        <br>喻莉
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l30.png">
-        <br>彭凯
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l31.jpg">
-        <br>杨鹏
-    </div>
-</div>
+主要研究网络空间安全，图像、视频的伪造与检测，基于VR技术的防伪与鉴伪、元宇宙技术多媒体防伪技术研究。
+
+- <strong class="h_01">负责人</strong> ： 喻莉
+- <strong class="h_02">研发骨干</strong> ：喻莉，彭凯，杨鹏
+
 
 #### 智能传感与物联网实验室
 
 ---
 
-<div class="t_grid">
-    <div>
-        <img class="grid_image" src="/assets/img/team/l32.jpg">
-        <br>邱才明
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l33.jpg">
-        <br>廖振宇
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l35.jpg">
-        <br>万凯
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l36.png">
-        <br>刘应状
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l37.png">
-        <br>葛晓虎
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l38.png">
-        <br>天喻信息
-    </div>
-</div>
+主要研究智能卡及芯片安全，智能传感器， RFID芯片及加密技术、天线。
 
-### 测试中心
-
-#### 高端证卡应用测试中心
-
----
-
-<div class="t_grid_twocolumns">
-    <div>
-        高端证卡应用测试中心拥有各类卡片打印及测试设备，可以进行PVC/PC层压膜、烫印膜、转移膜、Patch膜等产品的耐磨性、热转移性、耐温性等性能的测试，同时也可进行卡片的打印、层压等打样工作，实现全息技术在证卡领域的应用和证卡新产品的开发。<br><br>
-
-        核心成员：<br>
-        石建行、徐晓光、薛龙、林蝶、龚伟、张学诚、程海燕
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l12.jpg">
-    </div>
-</div>
-
-#### IMR打样测试中心
-
----
-
-<div class="t_grid_twocolumns">
-    <div>
-        IMR打样测试中心是围绕模内转印材料开展相关材料测试和新品打样的研发平台，配有模内转印技术所需设备以及配套注塑生产所需必要设施，能够完成全息技术与IMR技术相结合的测试与研发工作。<br><br>
-
-        核心成员：<br>
-        邹李华、邹光、杨名浩、马雅玲、芦彬、邵万福、刘迅
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l12.jpg">
-    </div>
-</div>
-
-
+- <strong class="h_01">负责人</strong> ： 邱才明
+- <strong class="h_02">研发骨干</strong> ：邱才明，葛晓虎，刘应状，廖振宇，万凯

@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 18:15:20
+ * @LastEditTime: 2023-03-12 17:23:52
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -35,14 +35,12 @@ cover-img: /assets/img/title.jpg
 </script>
 
 <div class="t_grid">
-    <a class="btn btn-info btn-lg get-started-btn btn_selected" href="/researchs/programs_index">国家级科研项目</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_1">省部级科研项目</a>
+    <a class="btn btn-info btn-lg get-started-btn btn_selected" href="/researchs/programs_index">部分国家级科研项目</a>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_1">部分省部级科研项目</a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/programs_2">其他科研项目</a>
 </div>
 
-### 国家级科研项目
-
-国家防伪工程技术研究中心先后承担国家级科研项目XX项，包括国家重点研发计划青年科学家项目、国家重点研发计划课题、国家自然科学基金、国家科技支撑计划课题、国家国际科技合作专项等。
+<p></p>
 
 <table>
     <thead>
@@ -195,14 +193,6 @@ cover-img: /assets/img/title.jpg
             <td>基于新小波的图形特征表示与提取</td>
             <td>60403011</td>
             <td>2005-2007</td>
-        </tr>
-
-        <tr>
-            <td></td>
-            <td>国家自然科学基金</td>
-            <td>加权调和分析与逼近</td>
-            <td>13071033</td>
-            <td>2004-2006</td>
         </tr>
     </tbody>
 </table>

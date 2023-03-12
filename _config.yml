@@ -31,7 +31,8 @@ navbar-links:
     - 队伍概况: "/team/index"
     - 杰出人才: "/team/talent"
     - 特聘教授: "/team/distinguishedProfessors"
-    - 实验室、测试中心: "/team/labs"
+    - 研究机构: "/team/labs"
+    - 测试机构: "/team/test"
   科学研究:
     - 科研项目: "/researchs/programs_index"
     - 研究方向: "/researchs/researchs_index"
@@ -40,11 +41,11 @@ navbar-links:
     - 标准: "/contributions/standard"
     - 专利: "/contributions/patent"
     - 论文: "/contributions/paper"
-  代表性工业化成果:
+  代表性工程化成果:
     - 全息防伪与综合集成: "/industry/index"
-    - 防伪功能材料与结构: "/industry/1"
+    - 防伪功能材料与结构: "/industry/3"
     - 防伪检测与智能鉴伪-金融票据: "/industry/2"
-    - 防伪检测与智能鉴伪-证照: "/industry/3"
+    - 防伪检测与智能鉴伪-证照: "/industry/1"
     - 产品溯源关键技术与平台: "/industry/6"
     - 信息加密与防伪: "/industry/5"
     - 生物特征识别与安全认证: "/industry/4"

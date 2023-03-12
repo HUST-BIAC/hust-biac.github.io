@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 11:40:46
+ * @LastEditTime: 2023-03-12 16:57:35
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -19,26 +19,24 @@ cover-img: /assets/img/title.jpg
 ## 组织架构
 
 <style>
+    .t_head {
+        width: 15%;
+        font-weight: bold;
+    }
 
-.t_head {
-    width: 15%;
-    font-weight: bold;
-}
+    .t_content_1 {
+        width: 40%;
+    }
 
-.t_content_1 {
-    width: 40%;
-}
+    .t_content_2 {
+        width: 45%;
+    }
 
-.t_content_2 {
-    width: 45%;
-}
-
-.t_grid {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-gap: 20px 2%;
-}
-
+    .t_grid {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: 20px 2%;
+    }
 </style>
 
 ### 管理委员会
@@ -48,7 +46,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <p><strong class="h_01">主任</strong>：</p>
         <p><strong class="h_02">副主任</strong>：</p>
-    </div>   
+    </div>
 </div>
 
 
@@ -61,12 +59,12 @@ cover-img: /assets/img/title.jpg
             <strong class="h_01">主任</strong>：<br>
             戴琼海（清华大学）
         </p>
-            <p><strong class="h_02">副主任</strong>：<br>
-                解孝林（华中科技大学）<br>
-                陈俊龙 （华南理工大学）<br>
-                刘卓慧 （中国防伪行业协会会长）
-            </p>
-    </div>   
+        <p><strong class="h_02">副主任</strong>：<br>
+            解孝林（华中科技大学）<br>
+            陈俊龙 （华南理工大学）<br>
+            刘卓慧 （中国防伪行业协会会长）
+        </p>
+    </div>
     <div>
         <p>
             <strong class="h_03">成员</strong>：<br>
@@ -91,16 +89,13 @@ cover-img: /assets/img/title.jpg
             <strong class="h_01">主任</strong>：<br>
             尤新革
         </p>
-            <p><strong class="h_02">副主任</strong>：<br>
-                鲁琴 <br>
-                张新坊 <br>
-                白翔 
-            </p>
-    </div>   
+
+    </div>
     <div>
-        <p>
-            <strong class="h_03">成员</strong>：<br>
-            
+        <p><strong class="h_02">副主任</strong>：<br>
+            鲁琴 <br>
+            张新坊 <br>
+            白翔
         </p>
     </div>
 </div>

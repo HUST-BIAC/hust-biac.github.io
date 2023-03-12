@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 代表性工业化成果
+title: 代表性工程化成果
 cover-img: /assets/img/title.jpg
 ---
 <!--

@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 09:50:04
+ * @LastEditTime: 2023-03-12 17:29:27
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -34,21 +34,19 @@ cover-img: /assets/img/title.jpg
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/cooperations/services_2">国内外大型企业</a>
 </div>
 
-### 服务各级政府部门
-
-国家防伪工程技术研究中心也和各级政府部门建立了合作关系，相关产品或技术方案已应用于公安部、外交部等各级政府部门。
+<p></p>
 
 <div class="t_grid">
     <div align="center">
         <img class="t_img" src="/assets/img/cooperations/services/1/1.png"><br>
         <h4>公安部物证鉴定中心</h4>
-        联合申报金融票据防伪相关的国家支撑计划。
+        共同完成国家支撑计划。
     </div>
-    <div align="center">
+    <!-- <div align="center">
         <img class="t_img" src="/assets/img/cooperations/services/1/2.png"><br>
         <h4>公安部</h4>
         为公安部护照防伪提供防伪技术方案。
-    </div>
+    </div> -->
     <div align="center">
         <img class="t_img" src="/assets/img/cooperations/services/1/3.jpg"><br>
         <h4>外交部</h4>
