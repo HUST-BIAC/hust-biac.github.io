@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 12:53:18
+ * @LastEditTime: 2023-03-12 14:15:21
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -34,6 +34,11 @@ cover-img: /assets/img/title.jpg
 
     .t_content {
         font-size: 1.5rem;
+        vertical-align: middle;
+    }
+
+    .t_content_1 {
+        font-size: 1.3rem;
         vertical-align: middle;
     }
 
@@ -97,7 +102,7 @@ cover-img: /assets/img/title.jpg
     <div class="t_title">
         <h2><strong class="h_04">围绕国家<br>重大需求</strong></h2>
     </div>
-    <div class="t_content">
+    <div class="t_content_1">
         <ul>
             <li><strong class="h_02">金融安全：</strong>金融票据、数字货币，钞票印制</li>
             <li><strong class="h_02">经济安全：</strong>防伪标识、商品包装、产品溯源</li>
@@ -108,7 +113,7 @@ cover-img: /assets/img/title.jpg
     <div class="t_title">
         <h2><strong class="h_05">紧跟国际<br>前沿技术</strong></h2>
     </div>
-    <div class="t_content">
+    <div class="t_content_1">
         <ul>
             <li><strong class="h_02">防伪材料：</strong>全息墨粉、功能材料与结构</li>
             <li><strong class="h_02">新型防伪技术：</strong>数字防伪、新型光学防伪、量子防伪 物电结合、区块链、人工智能</li>
@@ -120,7 +125,7 @@ cover-img: /assets/img/title.jpg
     <div class="t_title">
         <h2><strong class="h_06">面向经济<br>主战场</strong></h2>
     </div>
-    <div class="t_content">
+    <div class="t_content_1">
         <ul>
             <li><strong class="h_02">商品包装与防伪标识</strong></li>
             <li><strong class="h_02">产品溯源</strong></li>
