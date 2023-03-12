@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 18:52:56
+ * @LastEditTime: 2023-03-12 19:29:44
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -36,9 +36,9 @@ cover-img: /assets/img/title.jpg
 
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
-### 研究机构
+## 研究机构
 
-#### 防伪功能材料与结构实验室
+### 防伪功能材料与结构实验室
 
 ---
 
@@ -63,8 +63,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-
-#### 光学全息技术实验室
+### 光学全息技术实验室
 
 ---
 
@@ -85,7 +84,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-#### 防伪印制工艺及设备实验室
+### 防伪印制工艺及设备实验室
 
 ---
 
@@ -102,7 +101,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-#### 人工智能与机器视觉实验室
+### 人工智能与机器视觉实验室
 
 ---
 
@@ -123,7 +122,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-#### 信息加密与对抗实验室
+### 信息加密与对抗实验室
 
 ---
 
@@ -141,7 +140,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-#### 防伪检测与设备实验室
+### 防伪检测与设备实验室
 
 ---
 
@@ -163,7 +162,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-#### 生物特征识别与智能信息系统实验室
+### 生物特征识别与智能信息系统实验室
 
 ---
 
@@ -184,7 +183,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-#### 区块链与防伪溯源实验室
+### 区块链与防伪溯源实验室
 
 ---
 
@@ -207,7 +206,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-#### 多媒体（数字）防伪与安全实验室
+### 多媒体（数字）防伪与安全实验室
 
 ---
 
@@ -229,7 +228,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-#### 智能传感与物联网实验室
+### 智能传感与物联网实验室
 
 ---
 

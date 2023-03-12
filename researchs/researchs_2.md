@@ -16,21 +16,18 @@ cover-img: /assets/img/title.jpg
 
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
-<div class="t_grid_auto">
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_index">防伪功能材料与结构</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_1">人工智能与机器视觉</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_selected" href="/researchs/researchs_2">防伪检测与设备</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_3">防伪印制工艺与设备</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_4">智能化信息加密与安全</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_5">多媒体（数字）防伪与安全</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_6">生物特征识别与智能信息系统</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_7">智能传感与物联网技术</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_8">光学防伪与全息技术</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_9">区块链与防伪溯源</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_10">综合防伪集成技术</a>
+## 研究方向
+
+<div class="t_grid_back">
+    <div>
+        <h3>防伪检测与设备</h3>
+    </div>
+    <div>
+        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_index">返回研究方向首页</a>
+    </div>
 </div>
 
-### 防伪检测与设备
+---
 
 主要研究各类货币及防伪票据、证照的多光谱防伪特征成像及获取技术、多模态防伪特征融合鉴伪与识别、防伪检测装备及系统、金融票据检测装备、多国货币鉴伪、清分设备、防伪文检鉴伪及检测装备。
 

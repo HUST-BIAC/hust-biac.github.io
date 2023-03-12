@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 20:53:31
+ * @LastEditTime: 2023-03-12 19:11:38
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -16,21 +16,18 @@ cover-img: /assets/img/title.jpg
 
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
-<div class="t_grid_auto">
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_index">防伪功能材料与结构</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_1">人工智能与机器视觉</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_2">防伪检测与设备</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_3">防伪印制工艺与设备</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_4">智能化信息加密与安全</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_5">多媒体（数字）防伪与安全</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_selected" href="/researchs/researchs_6">生物特征识别与智能信息系统</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_7">智能传感与物联网技术</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_8">光学防伪与全息技术</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_9">区块链与防伪溯源</a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_10">综合防伪集成技术</a>
+## 研究方向
+
+<div class="t_grid_back">
+    <div>
+        <h3>生物特征识别与智能信息系统</h3>
+    </div>
+    <div>
+        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_index">返回研究方向首页</a>
+    </div>
 </div>
 
-### 生物特征识别与智能信息系统
+---
 
 主要研究人脸、虹膜、指纹等生物特征识别理论及相关技术，生物特征伪造识别与检测，多应用场景生物特征识别技术、传感器及芯片技术。
 
