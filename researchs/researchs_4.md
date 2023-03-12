@@ -22,7 +22,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>智能化信息加密与安全</h3>
     </div>
-    <div>
+    <div align="right">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_index">返回研究方向首页</a>
     </div>
 </div>

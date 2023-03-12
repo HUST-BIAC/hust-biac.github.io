@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 20:41:47
+ * @LastEditTime: 2023-03-12 20:06:21
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -22,7 +22,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>防伪检测与设备</h3>
     </div>
-    <div>
+    <div align="right">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_index">返回研究方向首页</a>
     </div>
 </div>
