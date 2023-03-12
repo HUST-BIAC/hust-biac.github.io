@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 17:30:46
+ * @LastEditTime: 2023-03-12 18:43:20
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -16,6 +16,12 @@ cover-img: /assets/img/title.jpg
 
 <style>
     .t_grid {
+        display: grid;
+        grid-template-columns: 32% 32% 32%;
+        grid-gap: 60px 1%;
+    }
+
+    .t_grid_s {
         display: grid;
         grid-template-columns: 24% 24% 24% 24%;
         grid-gap: 60px 1%;
@@ -28,6 +34,8 @@ cover-img: /assets/img/title.jpg
 
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
+## 合作服务单位
+
 <div class="t_grid">
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/cooperations/services_index">国家重大工程</a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/cooperations/services_1">各级政府部门</a>
@@ -36,7 +44,7 @@ cover-img: /assets/img/title.jpg
 
 <p></p>
 
-<div class="t_grid">
+<div class="t_grid_s">
     <div align="center">
         <img class="t_img" src="/assets/img/cooperations/services/2/1.png"><br>
         <h4>贵州茅台</h4>
