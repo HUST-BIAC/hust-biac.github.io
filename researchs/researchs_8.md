@@ -2,6 +2,7 @@
 layout: page
 title: 科学研究
 subtitle: 研究方向
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong

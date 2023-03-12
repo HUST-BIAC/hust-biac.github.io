@@ -2,12 +2,13 @@
 layout: page
 title: 对外合作与交流
 subtitle: 合作服务单位
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 09:50:43
+ * @LastEditTime: 2023-03-12 11:40:02
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.

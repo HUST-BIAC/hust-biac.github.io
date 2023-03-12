@@ -2,6 +2,7 @@
 layout: page
 title: 对外合作与交流
 subtitle: 国际平台
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong

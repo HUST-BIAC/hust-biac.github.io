@@ -2,6 +2,7 @@
 layout: page
 title: 研究队伍
 subtitle: 特聘教授
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong

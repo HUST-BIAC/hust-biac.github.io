@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 研究成果
+subtitle: 论文
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong

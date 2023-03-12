@@ -1,12 +1,14 @@
 ---
 layout: page
 title: 研究成果
+subtitle: 标准
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 18:57:41
+ * @LastEditTime: 2023-03-12 11:39:00
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.

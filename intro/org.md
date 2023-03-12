@@ -2,12 +2,13 @@
 layout: page
 title: 中心概况
 subtitle: 组织架构
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 16:42:07
+ * @LastEditTime: 2023-03-12 11:40:46
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.

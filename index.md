@@ -1,13 +1,13 @@
 ---
 layout: home
 title: 国家防伪工程技术研究中心
-subtitle: 代表国家竞争力，具备国际竞争力。
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 15:50:15
+ * @LastEditTime: 2023-03-12 11:41:59
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.

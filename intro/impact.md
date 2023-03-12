@@ -2,6 +2,7 @@
 layout: page
 title: 中心概况
 subtitle: 行业影响
+cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong
