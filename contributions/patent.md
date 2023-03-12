@@ -18,6 +18,11 @@ cover-img: /assets/img/title.jpg
 
 国家防伪工程技术研究中心获得授权专利XXX项。其中国际发明专利XXX项，发明专利XXX项。
 
+<div align="center">
+    <img style="height: 300px" src="/assets/img/contributions/pat1.png">
+    <img style="height: 300px" src="/assets/img/contributions/pat2.png">
+</div>
+
 ### 中心获授权的部分发明专利
 
 ---

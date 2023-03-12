@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 18:55:14
+ * @LastEditTime: 2023-03-12 13:04:21
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -19,6 +19,14 @@ cover-img: /assets/img/title.jpg
 ## 获得奖项
 
 国家防伪工程技术研究中心获得国家、省部级及行业奖项27项，其中包括国家级奖项2项。
+
+<div align="center">
+    <img style="height: 200px" src="/assets/img/contributions/pr1.png">
+    <img style="height: 200px" src="/assets/img/contributions/pr2.png">
+    <img style="height: 200px" src="/assets/img/contributions/pr3.png">
+    <img style="height: 200px" src="/assets/img/contributions/pr4.png">
+    <img style="height: 200px" src="/assets/img/contributions/pr5.png">
+</div>
 
 ### 国家级奖项
 

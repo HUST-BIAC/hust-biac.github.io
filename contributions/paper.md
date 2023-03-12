@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-11 19:01:50
+ * @LastEditTime: 2023-03-12 13:15:26
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -17,6 +17,20 @@ cover-img: /assets/img/title.jpg
 ## 论文
 
 国家防伪工程技术研究中心发表期刊和会议论文共计500余篇，其中包括SCI收录360余篇，中科院一区论文XXX篇，JCR1区论文XXX篇。
+
+<div align="center">
+    <img style="height: 110px" src="/assets/img/contributions/pap1.jpg">
+    <img style="height: 110px" src="/assets/img/contributions/pap2.png">
+    <img style="height: 110px" src="/assets/img/contributions/pap3.png">
+    <img style="height: 110px" src="/assets/img/contributions/pap4.png">
+    <img style="height: 110px" src="/assets/img/contributions/pap5.png">
+    <img style="height: 110px" src="/assets/img/contributions/pap6.png">
+    <img style="height: 110px" src="/assets/img/contributions/pap7.png">
+    <img style="height: 110px" src="/assets/img/contributions/pap8.png">
+    <img style="height: 80px" src="/assets/img/contributions/pap9.png">
+    <img style="height: 80px" src="/assets/img/contributions/pap10.png">
+    <img style="height: 80px" src="/assets/img/contributions/pap11.png">
+</div>
 
 ### 中心发表的部分论文
 
@@ -42,7 +56,7 @@ cover-img: /assets/img/title.jpg
 - Hao X, Xiong B, Ni M, et al. Highly Luminescent Liquid Crystals in Aggregation Based on Platinum (II) Complexes[J]. ACS Applied Materials & Interfaces, 2020, 12(47): 53058-53066.
 - Li S, Zuo C, Zhang Y, et al. Covalently cross-linked polymer stabilized electrolytes with self-healing performance via boronic ester bonds[J]. Polymer Chemistry, 2020, 11(36): 5893-5902.
 - Yuan J, Dong X, Zhang B, et al. Tunable dual emission of fluorescence-phosphorescence at room temperature based on pure organic supramolecular gels[J]. Dyes and Pigments, 2020, 181: 108506.
-- TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2022. 10.1109/TPAMI.2022.3229526.
+- TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning. IEEE Transactions on paptern Analysis and Machine Intelligence. 2022. 10.1109/TPAMI.2022.3229526.
 - GNDAN: Graph Navigated Dual Attention Network for Zero-Shot Learning. IEEE Transactions on Neural Networks and Learning Systems. 2022. 10.1109/TNNLS.2022.3155602.
 - Kernelized Similarity Learning and Embedding for Dynamic Texture Synthesis. IEEE Transactions on Systems, Man, and Cybernetics: Systems 2022. 10.1109/TSMC.2022.3188500.
 - Deep Adaptively-Enhanced Hashing with Discriminative Similarity Guidance for Unsupervised Cross-modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2022. 10.1109/TCSVT.2022.3172716.
