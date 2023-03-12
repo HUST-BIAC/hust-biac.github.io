@@ -49,9 +49,10 @@ navbar-links:
     - 信息加密与防伪: "/industry/5"
     - 生物特征识别与安全认证: "/industry/4"
   新闻动态: "/news/index"
-  对外合作:
-    - 合作服务单位: "/corp/index"
-    - 国际平台: "/corp/platform"
+  对外合作与交流:
+    - 合作服务单位: "/cooperations/services_index"
+    - 国际平台: "/cooperations/platform"
+    - 对外交流: "/cooperations/communications"
 
 ################
 # --- Logo --- #
