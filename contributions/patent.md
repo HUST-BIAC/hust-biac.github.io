@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 11:38:55
+ * @LastEditTime: 2023-03-12 20:46:27
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -23,7 +23,7 @@ cover-img: /assets/img/title.jpg
     <img style="height: 300px" src="/assets/img/contributions/pat2.png">
 </div>
 
-### 中心获授权的部分发明专利
+### 获授权的部分专利
 
 ---
 

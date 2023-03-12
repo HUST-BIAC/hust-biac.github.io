@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 13:04:21
+ * @LastEditTime: 2023-03-12 20:45:51
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -39,7 +39,7 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-- <strong class="h_01">湖北省自然科学奖一等奖</strong> 面向语义理解的复杂图像表征与计算理论及方法研究
+- <strong class="h_01">湖北省自然科学一等奖</strong> 面向语义理解的复杂图像表征与计算理论及方法研究
 - <strong class="h_01">湖北省自然科学一等奖</strong> 高分子复合材料的界面设计与破坏行为
 - <strong class="h_01">湖北省自然科学二等奖</strong> 形状特征提取及相似性度量方法研究
 - <strong class="h_01">重庆市自然科学二等奖</strong> 图像模式结构多尺度分析的基础理论与应用方法研究
@@ -64,9 +64,9 @@ cover-img: /assets/img/title.jpg
 - <strong class="h_01">全国烟标高新工艺高新材料金奖</strong> 多技术综合防伪全息定位烫印
 - <strong class="h_01">日内瓦国际发明银奖</strong> 基于光聚合物材料的3D全彩色图像存储技术
 - <strong class="h_01">国家金卡工程金蚂蚁奖</strong> 创新产品奖
-- <strong class="h_01">国家金卡工程金金蚂蚁奖</strong> 公共服务平台奖
-- <strong class="h_01">国家金卡工程金金蚂蚁奖</strong> 创新产品奖
-- <strong class="h_01">国家金卡工程金金蚂蚁奖</strong> 优秀应用成果
-- <strong class="h_01">国家金卡工程金金蚂蚁奖</strong> 创新产品奖
-- <strong class="h_01">国家金卡工程金金蚂蚁奖</strong> 优秀应用成果奖
+- <strong class="h_01">国家金卡工程金蚂蚁奖</strong> 公共服务平台奖
+- <strong class="h_01">国家金卡工程金蚂蚁奖</strong> 创新产品奖
+- <strong class="h_01">国家金卡工程金蚂蚁奖</strong> 优秀应用成果
+- <strong class="h_01">国家金卡工程金蚂蚁奖</strong> 创新产品奖
+- <strong class="h_01">国家金卡工程金蚂蚁奖</strong> 优秀应用成果奖
 - <strong class="h_01">国家金卡工程金蚂蚁奖</strong> 创新产品奖

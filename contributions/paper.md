@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 13:15:26
+ * @LastEditTime: 2023-03-12 20:46:54
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -32,7 +32,7 @@ cover-img: /assets/img/title.jpg
     <img style="height: 80px" src="/assets/img/contributions/pap11.png">
 </div>
 
-### 中心发表的部分论文
+### 部分代表性期刊论文
 
 ---
 
@@ -61,6 +61,13 @@ cover-img: /assets/img/title.jpg
 - Kernelized Similarity Learning and Embedding for Dynamic Texture Synthesis. IEEE Transactions on Systems, Man, and Cybernetics: Systems 2022. 10.1109/TSMC.2022.3188500.
 - Deep Adaptively-Enhanced Hashing with Discriminative Similarity Guidance for Unsupervised Cross-modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2022. 10.1109/TCSVT.2022.3172716.
 - Discriminative Suprasphere Embedding for Object Localization and Fine-Grained Visual Categorization. IEEE Transactions on Neural Networks and Learning Systems. 2022. 10.1109/TNNLS.2022.3202534.
+
+- ...
+
+### 部分代表性会议论文
+
+---
+
 - Ziming Hong; Shiming Chen; Guosen Xie; Wenhan Yang; Jian Zhao; Yuanjie Shao; Qinmu Peng; Xinge You， Semantic Compression Embedding for Generative Zero-Shot Learning，IJCAI. 2022.
 - Liheng Yuan, Heng Li, Beihao Xia, Cuiying Gao, Mingyue Liu, Wei Yuan, Xinge You. Recent Advances in Concept Drift Adaptation Methods for Deep Learning. IJCAI. 2022. 
 - Shiming Chen, Ziming Hong, Guo-Sen Xie, Wenhan Yang, Qinmu Peng, Kai Wang, Jian Zhao and Xinge You. MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning. CVPR. 2022. 

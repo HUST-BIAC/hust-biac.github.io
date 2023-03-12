@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 17:47:03
+ * @LastEditTime: 2023-03-12 21:05:52
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -47,7 +47,8 @@ cover-img: /assets/img/title.jpg
         <img src="/assets/img/team/t9.png">
     </div>
     <div>
-        白翔，教授、博导，国家杰出青年科学基金获得者，IAPR Fellow，机器视觉与智能系统湖北省工程研究中心主任、国家防伪工程中心副主任。他的研究领域为计算机视觉与模式识别。已在国内外刊物和学术会议上发表论文200余篇，论文被谷歌学术引用3万余次，h指数86。现/曾任IEEE TPAMI, PR, PRL, FCS等国际学术期刊的编委(AE)。曾获国家杰出青年基金(2022)，优秀青年基金 (2012)，"万人计划"青年拔尖人才 (2016)，连续8年入选Elsevier中国高被引学者榜单。曾获AAAI-2019杰出资深委员奖， IAPR/ICDAR 2019 青年学者奖等国际学术荣誉，以第1完成人获湖北省自然科学奖二等奖(2017)和中国图象图形学学会自然科学奖一等奖(2021)。
+        <a href="http://faculty.hust.edu.cn/baixiang/zh_CN/index.htm">白翔</a>
+        ，教授、博导，国家杰出青年科学基金获得者，IAPR Fellow，机器视觉与智能系统湖北省工程研究中心主任、国家防伪工程中心副主任。他的研究领域为计算机视觉与模式识别。已在国内外刊物和学术会议上发表论文200余篇，论文被谷歌学术引用3万余次，h指数86。现/曾任IEEE TPAMI, PR, PRL, FCS等国际学术期刊的编委(AE)。曾获国家杰出青年基金(2022)，优秀青年基金 (2012)，"万人计划"青年拔尖人才 (2016)，连续8年入选Elsevier中国高被引学者榜单。曾获AAAI-2019杰出资深委员奖， IAPR/ICDAR 2019 青年学者奖等国际学术荣誉，以第1完成人获湖北省自然科学奖二等奖(2017)和中国图象图形学学会自然科学奖一等奖(2021)。
     </div>
 
     
