@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 11:40:35
+ * @LastEditTime: 2023-03-12 12:19:05
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -26,3 +26,12 @@ cover-img: /assets/img/title.jpg
 - <strong class="h_01">2012年</strong> 产业化基地武汉天喻信息产业股份有限公司在深交所创业板上市
 - <strong class="h_01">2013年</strong> 组建“国家防伪工程技术研究中心深圳分中心”（深圳市科创委支持组建）
 - <strong class="h_01">2013年</strong> 成立“中澳联合信息物理鉴伪与数据科学研究中心”
+
+<div align="center">
+    <img style="height: 150px;" src="/assets/img/intro/h1.png">
+    <!-- <img style="height: 180px;" src="/assets/img/intro/h2.jpg"> -->
+    <!-- <img style="height: 180px;" src="/assets/img/intro/h3.jpg"> -->
+    <img style="height: 150px;" src="/assets/img/intro/h4.png">
+    <img style="height: 150px;" src="/assets/img/intro/h5.png">
+    <!-- <img style="height: 180px;" src="/assets/img/intro/h6.jpg"> -->
+</div>
