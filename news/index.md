@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 11:29:21
+ * @LastEditTime: 2023-03-12 13:20:45
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -15,6 +15,12 @@ cover-img: /assets/img/title.jpg
 
 <!-- ## 新闻动态 -->
 
+<div align="center">
+    <img style="height: 130px" src="/assets/img/news/i1.png">
+    <img style="height: 130px" src="/assets/img/news/i2.png">
+    <img style="height: 130px" src="/assets/img/news/i3.png">
+    <br><br>
+</div>
 
 - [2022-04-14] [华中科技大学校长尤政到访国家防伪工程技术研究中心](/news/2022-04-14)
 - [2022-04-11] [国家防伪工程技术研究中心多项成果成功助力“两个奥运”](/news/2022-04-11)
