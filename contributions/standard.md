@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 13:06:36
+ * @LastEditTime: 2023-03-12 22:36:59
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -16,7 +16,7 @@ cover-img: /assets/img/title.jpg
 
 ## 标准
 
-国家防伪工程技术研究中心主持或参与制定国家或行业标准XX项，其中包括国家标准XX项、行业标准XX项。（数字需要核对）
+国家防伪工程技术研究中心主持或参与制定国家或行业标准45项，其中包括国家标准16项、行业标准22项。
 
 <div align="center">
     <img style="height: 200px" src="/assets/img/contributions/s1.png">

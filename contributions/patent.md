@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 20:46:27
+ * @LastEditTime: 2023-03-12 22:37:08
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -16,7 +16,7 @@ cover-img: /assets/img/title.jpg
 
 ## 专利
 
-国家防伪工程技术研究中心获得授权专利XXX项。其中国际发明专利XXX项，发明专利XXX项。
+截止2022年12月，国家防伪工程技术研究中心获得授权专利328项。其中发明专利208项。国际发明专利16项。
 
 <div align="center">
     <img style="height: 300px" src="/assets/img/contributions/pat1.png">
