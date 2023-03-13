@@ -1,26 +1,216 @@
 ---
 layout: page
-title: 对外合作与交流
-subtitle: 国际平台
+title: 产业化结果与对外合作
+subtitle: 国际合作
 cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 10:06:48
+ * @LastEditTime: 2023-03-13 23:51:31
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
 -->
 
-## 国际平台
+## 国际合作
 
-### 中澳联合信息物理鉴伪与数据科学研究中心
+### 国际平台
+
 ---
 
-国家防伪工程技术研究中心组建了华中科技大学双一流国际联合研究平台：“中澳联合信息物理鉴伪与数据科学研究中心”。该国际平台由悉尼科技大学，悉尼大学、丹麦奥胡斯大学、美国弗罗里达大学等境外科研研所参与，拥有海外特聘教授6人 ，每年邀请专家30余人次， 举办大型学术活动10余次，参加国际展会和交流合作20余次。
+{% assign posts = paginator.posts | default: site.posts %}
 
-<div style="text-align: center;">
-     <img src="/assets/img/cooperations/platform/0.png">
-</div>
+<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+<ul class="posts-list list-unstyled" role="list">
+  {% for post in posts %}
+  {% if post.tags contains "platform" %}
+  <li class="post-preview">
+    <article>
+
+      {%- capture thumbnail -%}
+        {% if post.thumbnail-img %}
+          {{ post.thumbnail-img }}
+        {% elsif post.cover-img %}
+          {% if post.cover-img.first %}
+            {{ post.cover-img[0].first.first }}
+          {% else %}
+            {{ post.cover-img }}
+          {% endif %}
+        {% else %}
+        {% endif %}
+      {% endcapture %}
+      {% assign thumbnail=thumbnail | strip %}
+
+      {% if site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-normal">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+      {% endif %}
+
+      <a href="{{ post.url | absolute_url }}">
+        <h2 class="post-title">{{ post.title | strip_html }}</h2>
+
+        {% if post.subtitle %}
+          <h3 class="post-subtitle">
+          {{ post.subtitle | strip_html }}
+          </h3>
+        {% endif %}
+      </a>
+
+      <p class="post-meta">
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        国际平台
+      </p>
+
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-small">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+
+      {% unless site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-short">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+
+      <div class="post-entry">
+        {% assign excerpt_length = site.excerpt_length | default: 50 %}
+        {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+      {% endunless %}
+
+      {% if site.feed_show_tags != false and post.tags.size > 0 %}
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+        <ul class="d-inline list-inline" role="list">
+          {% for tag in post.tags %}
+          <li class="list-inline-item">
+            <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+    </article>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+
+### 对外活动
+
+---
+
+{% assign posts = paginator.posts | default: site.posts %}
+
+<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+<ul class="posts-list list-unstyled" role="list">
+  {% for post in posts %}
+  {% if post.tags contains "event" %}
+  <li class="post-preview">
+    <article>
+
+      {%- capture thumbnail -%}
+        {% if post.thumbnail-img %}
+          {{ post.thumbnail-img }}
+        {% elsif post.cover-img %}
+          {% if post.cover-img.first %}
+            {{ post.cover-img[0].first.first }}
+          {% else %}
+            {{ post.cover-img }}
+          {% endif %}
+        {% else %}
+        {% endif %}
+      {% endcapture %}
+      {% assign thumbnail=thumbnail | strip %}
+
+      {% if site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-normal">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+      {% endif %}
+
+      <a href="{{ post.url | absolute_url }}">
+        <h2 class="post-title">{{ post.title | strip_html }}</h2>
+
+        {% if post.subtitle %}
+          <h3 class="post-subtitle">
+          {{ post.subtitle | strip_html }}
+          </h3>
+        {% endif %}
+      </a>
+
+      <p class="post-meta">
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        发布于 {{ post.date | date: date_format }}
+      </p>
+
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-small">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+
+      {% unless site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-short">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+
+      <div class="post-entry">
+        {% assign excerpt_length = site.excerpt_length | default: 50 %}
+        {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+      {% endunless %}
+
+      {% if site.feed_show_tags != false and post.tags.size > 0 %}
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+        <ul class="d-inline list-inline" role="list">
+          {% for tag in post.tags %}
+          <li class="list-inline-item">
+            <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+    </article>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

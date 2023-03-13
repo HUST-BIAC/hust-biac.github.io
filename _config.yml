@@ -22,6 +22,7 @@ author: Some Person
 navbar-links:
   首页: "/index"
   中心概况:
+    # - 中心简介: "/intro/introduction"
     - 中心目标与定位: "/intro/index"
     - 组织架构: "/intro/org"
     - 历史沿革: "/intro/hist"
@@ -51,10 +52,11 @@ navbar-links:
     - 产品溯源关键技术与平台: "/industry/6"
     - 信息加密与防伪: "/industry/5"
     - 生物特征识别与应用: "/industry/4"
-  对外合作与交流:
-    - 合作服务单位: "/cooperations/services_index"
-    - 国际平台: "/cooperations/platform"
-    - 对外交流: "/cooperations/communications"
+  产业化结果与对外合作:
+    - 产业化基地: "/cooperations/industrializationBase"
+    - 校企共建联合实验室: "/cooperations/jointLabs"
+    - 服务合作机构: "/cooperations/services_index"
+    - 国际合作: "/cooperations/platform"
   新闻动态: "/news/index"
 
 ################
