@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 国家防伪工程技术研究中心
 cover-img: /assets/img/title.jpg
 ---
@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 22:34:18
+ * @LastEditTime: 2023-03-13 19:41:38
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
