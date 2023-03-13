@@ -22,7 +22,7 @@ cover-img: /assets/img/title.jpg
 
 在这些人员中，有国家千人计划XX人，国家万人计划XX人，国家杰出青年基金获得者XX人，国家优秀青年基金获得者XX人，教育部新世纪优秀人才XX人，楚天学者XX人，海外引进人才XX人，海外兼职教授XX人，创新团队XX个，培养博士研究生XX人，爱思唯尔高被引学者XX人，培养硕士研究生XX人。
 
-<div align="center">
+<div style="text-align: center;">
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/team/talent">杰出人才</a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/team/distinguishedProfessors">特聘教授</a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/team/labs">研究机构</a>

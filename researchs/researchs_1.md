@@ -36,14 +36,14 @@ cover-img: /assets/img/title.jpg
 
 提出了基于人工智能的多模态、多视角鉴伪算法。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 250px;" src="/assets/img/researchs/1/image001.png">
 </div> 
 
 #### 图像、自然语言识别理论及技术
 ---
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 250px;" src="/assets/img/researchs/1/image002.png">
     <img style="height: 290px;" src="/assets/img/researchs/1/image003.png">
 </div> 
@@ -52,7 +52,7 @@ cover-img: /assets/img/title.jpg
 #### 运动评测机器人
 ---
  
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 200px;" src="/assets/img/researchs/1/image006.gif">
     <img style="height: 200px;" src="/assets/img/researchs/1/image007.gif">
     <img style="height: 200px;" src="/assets/img/researchs/1/image004.png">

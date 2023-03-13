@@ -44,7 +44,7 @@ cover-img: /assets/img/title.jpg
 - 防探针总线技术；
 - 防错误注入存储器技术。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 180px;" src="/assets/img/researchs/7/image001.png">
     <img style="height: 180px;" src="/assets/img/researchs/7/image003.png">
 </div> 
@@ -54,7 +54,7 @@ cover-img: /assets/img/title.jpg
 
 研发可智能区分火灾烟雾和非火灾气溶胶的光电火灾传感器，并研发可搭载人工智能算法和操作系统的国产火灾探测器的专用芯片。此外，研发了可同时探测PM10/PM2.5/PM1.0的热电厂排放颗粒物在线监测系统，并利用机器学习方法完成了烟气颗粒物浓度和粒谱数据反演。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 300px;" src="/assets/img/researchs/7/image004.png">
     <img style="height: 300px;" src="/assets/img/researchs/7/image005.png">
 </div> 
@@ -64,7 +64,7 @@ cover-img: /assets/img/title.jpg
 
 针对电子芯片识读难的问题，研究强电磁干扰环境下RFID鲁棒读取技术，开发基于双天线频率可调、抗干扰、克服频偏的识读硬件系统，实现多种证件类型的鲁棒解析与识读。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 200px;" src="/assets/img/researchs/7/image006.png">
 </div> 
 

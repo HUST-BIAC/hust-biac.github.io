@@ -20,7 +20,7 @@ cover-img: /assets/img/title.jpg
 
 中心获得国家、省部级及行业奖项29项，其中包括国家级奖项2项，省部级一等奖6项。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 200px" src="/assets/img/contributions/pr1.png">
     <img style="height: 200px" src="/assets/img/contributions/pr2.png">
     <img style="height: 200px" src="/assets/img/contributions/pr3.png">

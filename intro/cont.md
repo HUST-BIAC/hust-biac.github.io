@@ -20,6 +20,6 @@ cover-img: /assets/img/title.jpg
 - 电话：027-87544817
 - 邮箱：hzkj_2010@163.com
 
-<div align="center">
+<div style="text-align: center;">
      <img src="/assets/img/intro/c1.png">
 </div>

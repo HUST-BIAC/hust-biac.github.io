@@ -135,7 +135,7 @@ cover-img: /assets/img/title.jpg
 - 防伪技术方案用于公安部护照；
 - ...
 
-<div align="center">
+<div style="text-align: center;">
     <img style="width: 25%; height: 100%;" src="/assets/img/industry/0/old-0-15.png">
     <img style="width: 25%; height: 100%;" src="/assets/img/industry/0/old-0-16.png">
     <img style="width: 25%; height: 100%;" src="/assets/img/industry/0/old-0-17.png">

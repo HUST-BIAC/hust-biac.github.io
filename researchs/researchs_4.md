@@ -36,7 +36,7 @@ cover-img: /assets/img/title.jpg
 
 国际首创四重防伪，每个产品都有独一无二的不同的多层防伪，每一枚产品都不相同，且不能复制、可追溯、识别手段明确清晰。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 450px;" src="/assets/img/researchs/4/image001.png">
 </div> 
 
@@ -45,7 +45,7 @@ cover-img: /assets/img/title.jpg
 
 提出了一种多重曲线光栅加密计算方法，发明了连续整体的多重曲线加密光栅结构，开发了曲线光栅加密技术, 解决了传统光学防伪易仿制的难题, 行业内首例实现3D连续动感光学防伪效果。该技术荣获湖北省科技进步一等奖。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 200px;" src="/assets/img/researchs/4/image002.gif">
     <img style="height: 200px;" src="/assets/img/researchs/4/image003.png">
     <img style="height: 200px;" src="/assets/img/researchs/4/image004.png">
@@ -56,7 +56,7 @@ cover-img: /assets/img/title.jpg
 
 研发了母版全息、多功能全息、数字全息、全息打印等材料和技术。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 130px;" src="/assets/img/researchs/4/image005.png">
     <img style="height: 130px;" src="/assets/img/researchs/4/image007.png">
     <img style="height: 130px;" src="/assets/img/researchs/4/image008.png">

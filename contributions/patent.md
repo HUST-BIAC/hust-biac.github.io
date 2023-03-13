@@ -19,7 +19,7 @@ cover-img: /assets/img/title.jpg
 截止2022年12月，国家防伪工程技术研究中心获得授权专利448项。其中国际发明专利16项，国内发明专利208项，授权实用新型104项。
 
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 300px" src="/assets/img/contributions/pat1.png">
     <img style="height: 300px" src="/assets/img/contributions/pat2.png">
 </div>

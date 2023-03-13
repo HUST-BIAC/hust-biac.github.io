@@ -20,7 +20,7 @@ cover-img: /assets/img/title.jpg
 
 截止2022年底，中心发表期刊和会议论文共计500余篇，其中包括SCI收录406篇，中科院一区论文310篇，JCR1区论文125篇。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 110px" src="/assets/img/contributions/pap1.jpg">
     <img style="height: 110px" src="/assets/img/contributions/pap2.png">
     <img style="height: 110px" src="/assets/img/contributions/pap3.png">

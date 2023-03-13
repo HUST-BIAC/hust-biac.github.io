@@ -39,37 +39,37 @@ cover-img: /assets/img/title.jpg
 <p></p>
 
 <div class="t_grid">
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/1/1.png"><br>
         <h4>公安部物证鉴定中心</h4>
         共同完成国家支撑计划。
     </div>
-    <!-- <div align="center">
+    <!-- <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/1/2.png"><br>
         <h4>公安部</h4>
         为公安部护照防伪提供防伪技术方案。
     </div> -->
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/1/3.jpg"><br>
         <h4>外交部</h4>
         为外交部领事认证、护照签证提供技术方案和产品。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/1/4.png"><br>
         <h4>省市级政府</h4>
         为省市级政府提供居民健康卡、社会保障卡、道路运输证卡等电子防伪技术方案和产品。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/1/5.jpg"><br>
         <h4>税务部门</h4>
         为全国十多个省市的100多个国税、地税提供税务刮奖发票的防伪方案和产品。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/1/6.jpeg"><br>
         <h4>国家质检总局</h4>
         参与国家防伪标识生产许可证实施细则和制定。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/1/7.jpeg"><br>
         <h4>中国人民银行</h4>
         为人民银行提供机读鉴伪方案，并协助制定国家和行业标准。

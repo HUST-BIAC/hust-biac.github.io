@@ -39,7 +39,7 @@ cover-img: /assets/img/title.jpg
 - 在3D人脸识别方面提出相应算法，解决光照、表情、遮挡、样本丢失等对于人脸识别的影响。
 - 多个研究成果发表在CCF A类会议和中科院一区/二区等期刊数十篇，相关技术应用于屏下指纹识别、人脸活体检测、人工智能安全等多个领域。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 300px;" src="/assets/img/researchs/6/image001.png"><br>
     <img style="height: 100px;" src="/assets/img/researchs/6/image002.png">
 </div> 
@@ -51,7 +51,7 @@ cover-img: /assets/img/title.jpg
 - 开展虹膜识别技术的研发，开发了基于远距离虹膜识别模组和多模态虹膜人脸识别模组，并在多个地铁闸机应用；
 - 开展了屏下指纹识别模组的研发，人脸活体检测与识别等相应工作，开发了基于LCD，OLED等屏下指纹模组。
  
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 250px;" src="/assets/img/researchs/6/image003.png"><br><br>
     <img style="height: 250px;" src="/assets/img/researchs/6/image004.png">
 </div> 

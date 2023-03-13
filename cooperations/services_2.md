@@ -45,80 +45,80 @@ cover-img: /assets/img/title.jpg
 <p></p>
 
 <div class="t_grid_s">
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/1.png"><br>
         <h4>贵州茅台</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/2.png"><br>
         <h4>中国银联</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/3.jpeg"><br>
         <h4>中国银行</h4>
     </div>
     
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/4.png"><br>
         <h4>中国农业银行</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/5.png"><br>
         <h4>中国工商银行</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/6.png"><br>
         <h4>中国建设银行</h4>
     </div>
     
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/7.png"><br>
         <h4>中国邮政银行</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/8.png"><br>
         <h4>中国烟草</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/9.png"><br>
         <h4>五粮液</h4>
     </div>
 
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/10.png"><br>
         <h4>浙江维融</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/11.png"><br>
         <h4>光明乳业</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/12.png"><br>
         <h4>北京同仁堂</h4>
     </div>
     
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/13.png"><br>
         <h4>洋河股份</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/14.png"><br>
         <h4>恒大冰泉</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/15.png"><br>
         <h4>泸州老窖</h4>
     </div>
     
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/16.png"><br>
         <h4>佳洁士</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/17.png"><br>
         <h4>红双喜</h4>
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/2/18.png"><br>
         <h4>tesa</h4>
     </div>

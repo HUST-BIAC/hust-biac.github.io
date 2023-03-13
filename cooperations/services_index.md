@@ -39,42 +39,42 @@ cover-img: /assets/img/title.jpg
 <p></p>
 
 <div class="t_grid">
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/0/1.jpg"><br>
         <h4>北京冬奥会</h4>
         冬奥会导盲犬溯源。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/0/2.png"><br>
         <h4>北京大兴机场</h4>
         大兴机场自主安检系统。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/0/3.png"><br>
         <h4>广州白云机场</h4>
         广州白云机场自主安检系统。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/0/4.png"><br>
         <h4>北京奥组委</h4>
         为北京奥运会提供记者证防伪方案与产品。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/0/5.jpg"><br>
         <h4>北京奥组委</h4>
         门票综合全息防伪技术方案。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/0/6.jpeg"><br>
         <h4>上海世博会</h4>
         上海世博会门票防伪技术方案。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/0/7.jpg"><br>
         <h4>中国人民银行</h4>
         与中国人民银行中钞特种防伪科技有限公司合作实施“993”项目。
     </div>
-    <div align="center">
+    <div style="text-align: center;">
         <img class="t_img" src="/assets/img/cooperations/services/0/8.jpg"><br>
         <h4>中国造币总公司</h4>
         将全息金币技术转让给中国造币总公司下属深圳国宝造币公司，建立专用生产线。

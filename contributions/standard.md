@@ -18,7 +18,7 @@ cover-img: /assets/img/title.jpg
 
 国家防伪工程技术研究中心主持或参与制定国家或行业标准45项，其中包括国家标准16项、行业标准22项。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 200px" src="/assets/img/contributions/s1.png">
     <img style="height: 200px" src="/assets/img/contributions/s2.png">
     <img style="height: 200px" src="/assets/img/contributions/s3.png">

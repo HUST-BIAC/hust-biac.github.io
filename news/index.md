@@ -17,7 +17,7 @@ cover-img: /assets/img/title.jpg
 
 <p></p>
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 130px" src="/assets/img/news/i1.png">
     <img style="height: 130px" src="/assets/img/news/i2.png">
     <img style="height: 130px" src="/assets/img/news/i3.png">

@@ -27,7 +27,7 @@ cover-img: /assets/img/title.jpg
 - <strong class="h_01">2013年</strong> 组建“国家防伪工程技术研究中心深圳分中心”（深圳市科创委支持组建）
 - <strong class="h_01">2013年</strong> 成立“中澳联合信息物理鉴伪与数据科学研究中心”
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 150px;" src="/assets/img/intro/h1.png">
     <!-- <img style="height: 180px;" src="/assets/img/intro/h2.jpg"> -->
     <!-- <img style="height: 180px;" src="/assets/img/intro/h3.jpg"> -->

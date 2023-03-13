@@ -38,7 +38,7 @@ cover-img: /assets/img/title.jpg
 - 高性能新材料体系的开发；
 - 无苯/水性材料的开发。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 150px;" src="/assets/img/researchs/3/image001.png">
     <img style="height: 150px;" src="/assets/img/researchs/3/image002.png">
 </div> 

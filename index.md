@@ -19,7 +19,7 @@ cover-img: /assets/img/title.jpg
 
 国家防伪工程技术研究中心于2005年3月由国家科技部批准依托华中科技大学组建，是专门从事核心防伪技术及其工程化的国家级研究开发机构和产业化基地。是我国安全防伪技术创新的源头和产业化示范基地，承担着提升我国安全防伪技术及其产品水平的重任。是中国防伪产学研联盟秘书长单位；中国防伪行业协会副理事长单位；中国防伪标准化委员会委员单位。在<strong class="h_01">信息安全和防伪行业</strong>，国家防伪工程技术研究中心<strong class="h_02">代表国家竞争力，具备国际竞争力</strong>。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 80px;" src="/assets/img/index/1.png">
     <img style="height: 80px;" src="/assets/img/index/2.jpg">
     <img style="height: 80px;" src="/assets/img/index/3.png">

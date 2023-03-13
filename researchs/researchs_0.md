@@ -36,7 +36,7 @@ cover-img: /assets/img/title.jpg
 
 研发了母版全息、多功能全息、数字全息、全息打印等材料和技术。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 130px;" src="/assets/img/researchs/0/image001.png">
     <img style="height: 130px;" src="/assets/img/researchs/0/image003.png">
     <img style="height: 130px;" src="/assets/img/researchs/0/image004.png">
@@ -51,7 +51,7 @@ cover-img: /assets/img/title.jpg
 - 可实现全息、荧光、近红外等多功能的一体化，具有防伪垄断性；
 - 打破了美国杜邦、德国科思创等外企垄断和技术封锁。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 130px;" src="/assets/img/researchs/0/image007.png">
     <img style="height: 130px;" src="/assets/img/researchs/0/image008.png">
 </div>
@@ -61,7 +61,7 @@ cover-img: /assets/img/title.jpg
 
 研发了光子晶体弹性体、光子晶体微球、全反射彩色微球、变色防伪贴片等光学防伪材料。
 
-<div align="center">
+<div style="text-align: center;">
     <img style="height: 130px;" src="/assets/img/researchs/0/image020.png">
     <img style="height: 130px;" src="/assets/img/researchs/0/image021.png">
     <img style="height: 130px;" src="/assets/img/researchs/0/image023.png">
@@ -73,7 +73,7 @@ cover-img: /assets/img/title.jpg
 
 1. 提出了“光引发阻聚剂”photoinitibitor概念，优化了相分离结构；
 
-    <div align="center">
+    <div style="text-align: center;">
         <img style="height: 130px;" src="/assets/img/researchs/0/image010.png">
         <img style="height: 130px;" src="/assets/img/researchs/0/image011.jpg">
         <img style="height: 130px;" src="/assets/img/researchs/0/image012.jpg">
@@ -81,13 +81,13 @@ cover-img: /assets/img/title.jpg
 
 2. 建立了全息高分子复合材料成型的数学模型，解决了全息高分子复合材料性能与成型效率难以同时提高的矛盾；
 
-    <div align="center">
+    <div style="text-align: center;">
         <img style="height: 300px;" src="/assets/img/researchs/0/image013.png">
     </div>
 
 3. 实现了裸眼3D图像存储及多功能全息存储；
 
-    <div align="center">
+    <div style="text-align: center;">
         <img style="height: 130px;" src="/assets/img/researchs/0/image014.png">
         <img style="height: 130px;" src="/assets/img/researchs/0/image015.png">
         <img style="height: 130px;" src="/assets/img/researchs/0/image016.gif">
@@ -95,13 +95,13 @@ cover-img: /assets/img/title.jpg
 
 4. 在国际上首次实现全息、荧光双重图像的无串扰存储与协同温敏响应，达到无法伪造的效果；
 
-    <div align="center">
+    <div style="text-align: center;">
         <img style="height: 200px;" src="/assets/img/researchs/0/image017.png">
     </div>
  
 5. 在国际上首次实现全息防伪功能与上转换发光功能的高度耦合，满足“易识别、难伪造”的高端防伪需求。
 
-    <div align="center">
+    <div style="text-align: center;">
         <img style="height: 200px;" src="/assets/img/researchs/0/image018.png">
         <img style="height: 200px;" src="/assets/img/researchs/0/image019.png">
     </div>
