@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 16:36:15
+ * @LastEditTime: 2023-03-13 16:47:51
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -89,6 +89,7 @@ cover-img: /assets/img/title.jpg
 </div>
 
 ### 全息二维码技术
+
 ---
 
 该技术荣获中国“蓝盾杯”防伪技术应用成果奖、湖北省科技进步奖三等奖。业内首创；突破国内塑料膜表面数字印刷精度极限。
@@ -100,18 +101,27 @@ cover-img: /assets/img/title.jpg
 |---|---|
 | 全息二维码标识，双重防伪，信息可追溯 | 边缘平整，图案清晰二维码识别快 |
 |---|---|
-    
+
 ### 耐高温、耐磨全息防伪材料技术
+
 ---
 
 设计了耐高温、耐磨全息防伪膜新结构，开发了耐高温、耐磨全息防伪材料，解决了传统全息防伪产品不耐磨、不耐高温的难题，实现了防伪全息膜在银行卡、PC卡等高端证卡领域的使用 。
- 
+
 <img src="/assets/img/industry/0/old-0-13.png">
 
+### 新型护照防伪膜关键技术与制备方法研究及应用
 
+---
 
+将全息防伪材料与技术应用于聚碳酸酯基材的护照表面，打破国外对聚碳酸酯护照全息防伪膜和相关技术的垄断，为我国护照的安全升级奠定技术基础。相关成果已应用于泰国身份证和几内亚大使馆证中。
+
+<div style="text-align: center;">
+    <img style="width: 80%;" src="/assets/img/industry/0/0-7.png">
+</div>
 
 ### 其他成果及应用
+
 ---
 
 中心为北京奥运会提供记者证防伪方案与产品：
