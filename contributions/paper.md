@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 23:09:34
+ * @LastEditTime: 2023-03-13 09:26:04
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -78,7 +78,7 @@ cover-img: /assets/img/title.jpg
 
 - Yuan J, Dong X, Zhang B, et al. ***Tunable dual emission of fluorescence-phosphorescence at room temperature based on pure organic supramolecular gels***. Dyes and Pigments, 2020, 181: 108506.
 
-- ***TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning***. IEEE Transactions on paptern Analysis and Machine Intelligence. 2022. 10.1109/TPAMI.2022.3229526.
+- Chen S, Hong Z, Hou W, et al. ***TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning***. IEEE Transactions on paptern Analysis and Machine Intelligence. 2022. 10.1109/TPAMI.2022.3229526.
 
 - Shiming Chen, Ziming Hong, Guo-sen Xie, et al. ***GNDAN: Graph Navigated Dual Attention Network for Zero-Shot Learning***. IEEE Transactions on Neural Networks and Learning Systems. 2022. 10.1109/TNNLS.2022.3155602.
 
