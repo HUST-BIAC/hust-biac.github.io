@@ -7,13 +7,15 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 10:55:50
+ * @LastEditTime: 2023-03-13 10:59:49
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
 -->
 
-<!-- ## 新闻动态 -->
+## 新闻动态
+
+<p></p>
 
 <div align="center">
     <img style="height: 130px" src="/assets/img/news/i1.png">
