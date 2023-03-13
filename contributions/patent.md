@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 11:17:25
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-13 20:44:53
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -28,6 +28,7 @@ cover-img: /assets/img/title.jpg
 
 ---
 
+- **US11009829 B2**  DUAL IMAGE STORAGE MATERIAL AS WELL AS PREPARATION METHOD AND APPLICATION THEREOF
 - **US11222662 B2** DIRECTLY PRINTABLE IMAGE RECORDING MATERIAL AND PREPARATION METHOD THEREOF
 - **US10140556 B2** Arabic optical charachter recognition using hidden markov models and decision trees
 - **US 9753431 B2** Visible light photoinitiating system for preparing high diffraction efficiency hologram optical polymer material

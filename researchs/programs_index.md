@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 18:48:11
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-13 20:51:50
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -76,6 +76,34 @@ cover-img: /assets/img/title.jpg
             <td>2022YFC3301003</td>
             <td>2022-2025</td>
         </tr>
+        <tr>
+            <td></td>
+            <td>国家自然科学基金专项基金</td>
+            <td>智能反射面辅助的新型无线通信数学理论与数学技术</td>
+            <td> </td>
+            <td>2022-2025</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>国家自然科学基金优秀青年基金</td>
+            <td>全息高分子纳米复合材料</td>
+            <td>52122316</td>
+            <td>2022-2024</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>国家自然科学基金优秀青年基金</td>
+            <td>图像特征计算</td>
+            <td> </td>
+            <td>2022-2024</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>国家自然科学基金面上项目</td>
+            <td>基于服务图的微服务细粒度智能放置策略研究</td>
+            <td> </td>
+            <td>2022-2025</td>
+        </tr>       
         <tr>
             <td></td>
             <td>国家重点研发计划课题</td>
