@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 14:49:56
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-13 21:40:22
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -43,6 +43,7 @@ cover-img: /assets/img/title.jpg
 
 ---
 
+- 全页式出入境证件阅读机技术要求
 - 城市公共交通IC卡技术规范
 - 汽车配件流通规范
 - 中国金融移动支付 安全单元
