@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 21:05:35
+ * @LastEditTime: 2023-03-13 23:28:46
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -44,9 +44,9 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid_twocolumns">
     <div>
-        研究激光全息高分子材料；自组装光学防伪材料。
+        研究激光全息高分子复合材料，全息打印系统及装备，自组装光学防伪材料，大面积结构色复合膜制备。
 
-        <br><br><strong class="h_01">负责人</strong> ：解孝林
+        <br><br><strong class="h_01">负责人</strong> ：<a href="http://chem.hust.edu.cn/info/1172/3081.htm">解孝林</a>
         <br><strong class="h_02">研发骨干</strong> ：
         <a href="http://chem.hust.edu.cn/info/1172/3081.htm">解孝林</a>，
         <a href="http://faculty.hust.edu.cn/liaoyonggui/zh_CN/index.htm">廖永贵</a>，
@@ -69,7 +69,7 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid_twocolumns">
     <div>
-        研究多维成像技术、多光谱成像、光栅衍射与加密理论及技术。
+        研究多维成像技术，多光谱成像、光栅衍射与加密理论及技术，光学可变技术、衍射光学可变技术，新型全息防伪技术；全息防伪制版技术；全息光刻设备的防伪光学效果技术，全息印刷技术，全息防伪标识、隐形标识系统、激光编码等技术。
 
         <br><br><strong class="h_01">负责人</strong> ：葛宏伟
         <br><strong class="h_02">研发骨干</strong> ：
@@ -87,7 +87,7 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid_twocolumns">
     <div>
-        研究金融票据、防伪证照、防伪标识多光谱多模态防伪成像印制工艺、印制设备、印制过程中智能检测与识别技术及设备， 如凹印机及凹印检测、微缩成像印制及检测。
+        研究高分子复合材料的性能评测技术，原材料分子量、化学结构等化学性能分析与评估；防伪成品耐水性、耐酒精性能、耐擦伤性能和耐候性等化学性能评测与分析技术； 高性能新材料体系的开发，无苯/水性材料的开发；防伪票据、防伪证照、防伪标识多光谱多模态防伪成像印制工艺、印制设备。
 
         <br><br><strong class="h_01">负责人</strong> ：杨志方
         <br><strong class="h_02">研发骨干</strong> ：杨志方，熊丽端，肖烜，周聪，申政，王慧，王佳成，孙林辉
@@ -104,7 +104,7 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid_twocolumns">
     <div>
-        研究基于人工智能及智能物联相关的防伪、鉴伪理论与技术， 图像、自然语言如文字、语音识别理论及技术、自主识别多功能机器人、 运动评测机器人。
+        研究机器学习理论与算法，自然语言处理，机器视觉理论与技术，基于人工智能与机器视觉的防伪、鉴伪理论与技术，人脸、虹膜、指纹、掌纹、静脉等生物特征识别理论及相关技术，生物特征伪造识别与检测，生物特征活体检测与识别、多应用场景生物特征识别技术、基于生物特征识别的传感器、模组及芯片技术。机器人技术、自主识别多功能机器人、 运动评测机器人等。
 
         <br><br><strong class="h_01">负责人</strong> ： <a href="http://bmal.hust.edu.cn/info/1005/1091.htm">尤新革</a>
         <br><strong class="h_02">研发骨干</strong> ：
@@ -113,27 +113,10 @@ cover-img: /assets/img/title.jpg
         <a href="http://faculty.hust.edu.cn/xwang/zh_CN/index.htm">王兴刚</a>，
         杨欣，
         <a href="http://bmal.hust.edu.cn/info/1005/1344.htm">邵远杰</a>，
+        <a href="http://bmal.hust.edu.cn/info/1005/1092.htm">彭勤牧</a>
     </div>
     <div>
         <img class="grid_image" src="/assets/img/team/l4.jpg">
-    </div>
-</div>
-<br>
-
-### 信息加密与对抗实验室
-
----
-
-<div class="t_grid_twocolumns">
-    <div>
-        多光谱成像、光栅加密、运用全息印刷技术做出防伪标识、隐形标识系统、激光编码等技术。
-
-        <br><br><strong class="h_01">负责人</strong> ： <a href="http://bmal.hust.edu.cn/info/1005/1057.htm">袁巍</a>
-        <br><strong class="h_02">研发骨干</strong> ：
-        <a href="http://bmal.hust.edu.cn/info/1005/1057.htm">袁巍</a>
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l5.png">
     </div>
 </div>
 <br>
@@ -144,7 +127,7 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid_twocolumns">
     <div>
-        研究各类货币及防伪票据、证照的多光谱防伪特征成像及获取技术、多模态防伪特征融合鉴伪与识别、防伪检测装备及系统、金融票据检测装备、 多国货币鉴伪、清分设备、防伪文检鉴伪及检测装备。
+        研究各类防伪票据及货币、证照的多光谱防伪特征成像及获取技术，多模态防伪特征提取及融合鉴伪与识别技术，防伪标识及票证检测装备及系统，金融票据检测装备，多国货币鉴伪、清分设备，防伪文检鉴伪及检测装备； 防伪票据、证照及防伪标识印制生产过程中智能检测与识别技术、智能检测系统及装备。
 
         <br><br><strong class="h_01">负责人</strong> ： 
         <a href="http://bmal.hust.edu.cn/info/1005/1058.htm">徐端全</a>
@@ -161,28 +144,7 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-### 生物特征识别与智能信息系统实验室
-
----
-
-<div class="t_grid_twocolumns">
-    <div>
-        研究人脸、虹膜、指纹等生物特征识别理论及相关技术，生物特征伪造识别与检测，多应用场景生物特征识别技术、传感器及芯片技术。
-
-        <br><br><strong class="h_01">负责人</strong> ：
-        <a href="http://bmal.hust.edu.cn/info/1005/1057.htm">袁巍</a>
-
-        <br><strong class="h_02">研发骨干</strong> ：
-        <a href="http://bmal.hust.edu.cn/info/1005/1057.htm">袁巍</a>，
-        <a href="http://bmal.hust.edu.cn/info/1005/1092.htm">彭勤牧</a>
-    </div>
-    <div>
-        <img class="grid_image" src="/assets/img/team/l7.png">
-    </div>
-</div>
-<br>
-
-### 区块链与防伪溯源实验室
+### 区块链技术与防伪溯源实验室
 
 ---
 
@@ -205,23 +167,24 @@ cover-img: /assets/img/title.jpg
 </div>
 <br>
 
-### 多媒体（数字）防伪与安全实验室
+### 多媒体处理与信息安全实验室
 
 ---
 
 <div class="t_grid_twocolumns">
     <div>
-        研究网络空间安全，图像、视频的伪造与检测，基于VR技术的防伪与鉴伪、元宇宙技术多媒体防伪技术研究。
+        研究图像、视频等多媒体编码、识别分析与处理理论与技术，多媒体伪造与检测，基于VR技术的防伪与鉴伪、元宇宙理论与技术、多媒体防伪技术、信息加密与对抗攻击。
 
         <br><br><strong class="h_01">负责人</strong> ：
-        <a href="http://eic.hust.edu.cn/professor/yuli/">喻莉</a>
+        <a href="http://eic.hust.edu.cn/professor/yangyou">杨铀</a>
 
         <br><strong class="h_02">研发骨干</strong> ：
+        <a href="http://eic.hust.edu.cn/professor/yangyou">杨铀</a>，
+        <a href="http://bmal.hust.edu.cn/info/1005/1057.htm">袁巍</a>，
         <a href="http://eic.hust.edu.cn/professor/yuli/">喻莉</a>，
         <a href="http://eic.hust.edu.cn/professor/yangyou">杨铀</a>，
         <a href="http://eic.hust.edu.cn/professor/liuqiong">刘琼</a>，
         <a href="http://eic.hust.edu.cn/aprofessor/liangkun">梁昆</a>，
-        <a href="http://eic.hust.edu.cn/professor/pengkai/pengkai.html">彭凯</a>，
         <a href="http://eic.hust.edu.cn/aprofessor/yangpeng/index.html">杨鹏</a>
     </div>
     <div>
@@ -236,17 +199,18 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid_twocolumns">
     <div>
-        研究智能卡及芯片安全，智能传感器， RFID芯片及加密技术、天线。
+        研究智能卡及芯片安全，智能传感器， RFID芯片及加密技术，天线与智能超表面。
 
         <br><br><strong class="h_01">负责人</strong> ： 
         <a href="http://eic.hust.edu.cn/professor/qiucaiming/">邱才明</a>
 
         <br><strong class="h_02">研发骨干</strong> ：
         <a href="http://eic.hust.edu.cn/professor/qiucaiming/">邱才明</a>，
-        <a href="http://eic.hust.edu.cn/professor/gexiaohu/index.html">葛晓虎</a>，
         <a href="http://eic.hust.edu.cn/professor/liuyingzhuang/index.htm">刘应状</a>，
+        李渝州，
+        <a href="http://eic.hust.edu.cn/professor/wankai/">万凯</a>，
         <a href="http://eic.hust.edu.cn/aprofessor/liaozhenyu/">廖振宇</a>，
-        <a href="http://eic.hust.edu.cn/professor/wankai/">万凯</a>
+        刘明罡，密铁宾，凌泽南
     </div>
     <div>
         <img class="grid_image" src="/assets/img/team/l10.png">
