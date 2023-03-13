@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 22:36:59
+ * @LastEditTime: 2023-03-13 14:49:56
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -50,5 +50,7 @@ cover-img: /assets/img/title.jpg
 - 中国金融移动支付 客户端技术规范
 - 中国金融移动支付 受理终端技术要求
 - 中国金融移动支付 检测规范
-- 汽车同质配件追溯体系规范 （团体或联盟标准）
+- 卷烟保湿保润包装技术要求
+- 产品质量分级及“领跑者”评价要求 激光全息定位纸（团体或联盟标准）
+- 汽车同质配件追溯体系规范（团体或联盟标准）
 - ...
