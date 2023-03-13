@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 10:00:36
+ * @LastEditTime: 2023-03-13 16:16:50
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -68,7 +68,8 @@ cover-img: /assets/img/title.jpg
     <div>
         <p>
             <strong class="h_03">成员</strong>：<br>
-            邱才明（华中科技大学 电信学院院长）<br>
+            朱锦涛（华中科技大学化学与化工学院 院长）<br>
+            邱才明（华中科技大学电子信息与通信学院 院长）<br>
             陶大程（京东探索研究院院长）<br>
             林江恒（公安部一所）<br>
             王慎寒（国家移民局技术研究所 主任）<br>
