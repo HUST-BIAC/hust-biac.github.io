@@ -7,13 +7,34 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 19:41:38
+ * @LastEditTime: 2023-03-14 00:12:01
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
 -->
 
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
+
+## 新闻快讯
+
+{% assign posts = paginator.posts | default: site.posts %}
+
+<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+<ul class="posts-list list-unstyled" role="list">
+  {% for post in posts limit: 5%}
+  {% if post.tags contains "news" %}
+  <li>
+      {% assign date_format = "%Y-%m-%d" %}
+      [{{ post.date | date: date_format }}]
+      <a href="{{ post.url | absolute_url }}">
+        <strong class="h_01">{{ post.title | strip_html }}</strong>
+      </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+
 
 ## 中心简介
 
