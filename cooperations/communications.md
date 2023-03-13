@@ -4,70 +4,102 @@ title: 对外合作与交流
 subtitle: 对外交流
 cover-img: /assets/img/title.jpg
 ---
-<!--
- * @Author: Conghao Wong
- * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 10:43:04
- * @Description: file content
- * @Github: https://cocoon2wong.github.io
- * Copyright 2023 Conghao Wong, All Rights Reserved.
--->
-
-<style>
-    .t_grid {
-        display: grid;
-        grid-template-columns: 70% 30%;
-        grid-gap: 60px 1%;
-    }
-
-    .t_img {
-        vertical-align: top;
-    }
-</style>
-
-<link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
 ## 对外交流
 
-### [京东探索研究院院长陶大程院士为中心做学术报告](/cooperations/posts/2)
 ---
 
-<div class="t_grid">
-    <div>
-        陶大程教授是机器学习、机器视觉、数据挖掘、图像与多媒体信息处理、视频监控等领域的知名学者。本次邀陶大程院士给我校防伪中心作报告，主要的内容包括三个方面...
+{% assign posts = paginator.posts | default: site.posts %}
 
-        <br><br><a class="btn btn-info btn-lg get-started-btn btn_dark" href="/cooperations/posts/2">阅读详情</a>
-    </div>
-    <div>
-        <img class="t_img" src="/assets/img/cooperations/posts/2-0.png">
-    </div>
-</div>
+<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+<ul class="posts-list list-unstyled" role="list">
+  {% for post in posts %}
+  {% if post.tags contains "event" %}
+  <li class="post-preview">
+    <article>
 
-### [挪威北极大学余书剑博士来中心进行专题讲授](/cooperations/posts/1)
----
+      {%- capture thumbnail -%}
+        {% if post.thumbnail-img %}
+          {{ post.thumbnail-img }}
+        {% elsif post.cover-img %}
+          {% if post.cover-img.first %}
+            {{ post.cover-img[0].first.first }}
+          {% else %}
+            {{ post.cover-img }}
+          {% endif %}
+        {% else %}
+        {% endif %}
+      {% endcapture %}
+      {% assign thumbnail=thumbnail | strip %}
 
-<div class="t_grid">
-    <div>
-        国防防伪工程技术研究中心邀请挪威北极大学余书剑博士进行专题讲授。余书剑博士首先回顾了机器学习中常见的距离和相关性度量，并详细介绍了如何用信息论提高机器学习泛化性能。
+      {% if site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-normal">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+      {% endif %}
 
-        <br><br><a class="btn btn-info btn-lg get-started-btn btn_dark" href="/cooperations/posts/1">阅读详情</a>
-    </div>
-    <div>
-        <img class="t_img" src="/assets/img/cooperations/posts/1-0.jpg">
-    </div>
-</div>
+      <a href="{{ post.url | absolute_url }}">
+        <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
-### [华南理工大学陈俊龙院士到中心开展短期讲学](/cooperations/posts/0)
----
+        {% if post.subtitle %}
+          <h3 class="post-subtitle">
+          {{ post.subtitle | strip_html }}
+          </h3>
+        {% endif %}
+      </a>
 
-<div class="t_grid">
-    <div>
-        根据华中科技大学“双一流”建设国际合作专项计划安排，本中心邀请陈俊龙院士开展短期讲学。陈俊龙院士针对模糊宽度学习系统(BLS)进行了详细的介绍，针对宽度学习系统的算法与应用做了系列报告和讲座。
+      <p class="post-meta">
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        发布于 {{ post.date | date: date_format }}
+      </p>
 
-        <br><br><a class="btn btn-info btn-lg get-started-btn btn_dark" href="/cooperations/posts/0">阅读详情</a>
-    </div>
-    <div>
-        <img class="t_img" src="/assets/img/cooperations/posts/0-0.jpg">
-    </div>
-</div>
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-small">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+
+      {% unless site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-short">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+
+      <div class="post-entry">
+        {% assign excerpt_length = site.excerpt_length | default: 50 %}
+        {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+      {% endunless %}
+
+      {% if site.feed_show_tags != false and post.tags.size > 0 %}
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+        <ul class="d-inline list-inline" role="list">
+          {% for tag in post.tags %}
+          <li class="list-inline-item">
+            <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+    </article>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
