@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-14 00:47:39
+ * @LastEditTime: 2023-03-14 01:38:13
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -18,6 +18,18 @@ cover-img: /assets/img/title.jpg
         display: grid;
         grid-template-columns: 6.5em auto;
     }
+
+    .t_grid_01 {
+        display: grid;
+        grid-template-columns: 75% auto;
+        grid-gap: 60px 2%;
+    }
+
+    .t_grid_four {
+        display: grid;
+        grid-template-columns: 32% 32% 32%;
+        grid-gap: 60px 2%;
+    }
 </style>
 
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
@@ -27,44 +39,46 @@ cover-img: /assets/img/title.jpg
         <h2>新闻快讯</h2>
     </div>
     <div style="text-align: right;">
-            <a  class="btn btn-info btn-lg get-started-btn btn_dark" href="/news/index">更多新闻 ></a>
+        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/news/index">更多新闻 ></a>
     </div>
 </div>
 
 ---
 
-{% assign posts = paginator.posts | default: site.posts %}
-
-<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts limit: 5%}
-  {% if post.tags contains "news" %}
-  <li>
+    {% for post in site.tags.news limit: 5%}
+    <li>
         <div class="news_grid">
             <div>
                 {% assign date_format = "%Y-%m-%d" %}
-      [{{ post.date | date: date_format }}]
+                [{{ post.date | date: date_format }}]
             </div>
             <div>
                 <a href="{{ post.url | absolute_url }}">
-                    <strong class="h_01">{{ post.title | strip_html }}</strong>
-                  </a>
+                    {{ post.title | strip_html }}
+                </a>
             </div>
         </div>
-      
-      
-  </li>
-  {% endif %}
-  {% endfor %}
+    </li>
+    {% endfor %}
 </ul>
 
+<p></p>
 
-
-## 中心简介
+<div class="t_grid_back">
+    <div>
+        <h2>中心介绍</h2>
+    </div>
+    <div style="text-align: right;">
+        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/intro/introduction">更多 ></a>
+    </div>
+</div>
 
 ---
 
-国家防伪工程技术研究中心于2005年3月由国家科技部批准依托华中科技大学组建，是专门从事核心防伪技术及其工程化的国家级研究开发机构和产业化基地。是我国安全防伪技术创新的源头和产业化示范基地，承担着提升我国安全防伪技术及其产品水平的重任。是中国防伪产学研联盟秘书长单位；中国防伪行业协会副理事长单位；中国防伪标准化委员会委员单位。在<strong class="h_01">信息安全和防伪行业</strong>，国家防伪工程技术研究中心<strong class="h_02">代表国家竞争力，具备国际竞争力</strong>。
+国家防伪工程技术研究中心于2005年3月由国家科技部批准依托华中科技大学组建，是专门从事核心防伪技术及其工程化的国家级研究开发机构和产业化基地。是我国安全防伪技术创新的源头和产业化示范基地，承担着提升我国安全防伪技术及其产品水平的重任。是中国防伪产学研联盟秘书长单位；中国防伪行业协会副理事长单位；中国防伪标准化委员会委员单位。在<strong
+    class="h_01">信息安全和防伪行业</strong>，国家防伪工程技术研究中心<strong class="h_02">代表国家竞争力，具备国际竞争力</strong>。
+    <a href="/intro/introduction" class="post-read-more">[Read&nbsp;More]</a>
 
 <div style="text-align: center;">
     <img style="height: 80px;" src="/assets/img/index/1.png">
@@ -73,19 +87,81 @@ cover-img: /assets/img/title.jpg
     <img style="height: 80px;" src="/assets/img/index/4.png">
 </div>
 
-工程中心学科依托华中科技大学电子信息与通信学院、化学化工学院，按照“<strong class="h_01">一个研发中心</strong>，<strong class="h_01">三个产业化基地（两家上市公司）</strong>，<strong class="h_01">一个国际合作中心</strong>，<strong class="h_01">一个分中心</strong>，<strong class="h_01">多个联合实验室</strong>（校外企业共建）”的组织结构模式，围绕国家在证件牌照、金融票卡、商品包装、产品溯源等防伪行业的重大需求，在全息防伪、鉴伪与机读识别、电子溯源、防伪材料与标识、加密技术与方案、防伪工艺与设备等领域展开技术研究和产品开发。近年来共承担科研项目250余项，其中国家级项目76项，获授权专利328项，软件著作权37项，主持与参与国家与行业标准制定45项，发表论文500余篇，SCI收录论文405篇。中心获批以来获省部级及以上奖励29项。其中国家科技进步一等奖和国家自然科学二等奖各一项，省部级一等奖5项。连续四次获得“国家金卡工程金蚂蚁奖”，一项获日内瓦国际发明银奖。取得一批具有显著度的成果，转化成果-产品已在市场上得到广泛应用，其中全息防伪、防伪票据鉴伪与识读、票据打印与扫描、防伪证照识读等多个产品性能国际领先。IC智能卡、全息二维码等多个产品在行业市场占有率居全国第一。
+<p></p>
 
-先后承担完成国家科技支撑计划“综合防伪关键技术研究及系统应用开发”、“防伪鉴定与溯源关键技术研究”“食品安全电子溯源技术研究及示范”，国家重点研发计划项目“防伪票据智能处理关键技术及设备研发”，“出入境证件真伪识别技术及系统研究”、“出入境证件真伪识别装备研究”、“面向检察办案的不可信电子化签名攻击识别关键技术研究”、核高基重大专项“双界面金融卡SOC芯片研发与产业化”，发改委信息重大专项“面向互联网的个人金融终端产品研发与产业化”，国家自然科学基金重大国际(地区)合作研究项目“电子封装用高性能环氧树脂复合材料的设计、制备与Underfill工艺”等二十多项国家重大需求科研任务；取得“票据、证卡多光谱图像鉴伪识读机具”，“全息二维码研发及其产业化”， “智能IC卡研发及其产业化”，“面向互联网的个人金融终端产品”，“产品质量追溯网络平台”等多项代表性工程化研发成果，并在市场推广转化。
-近几年主持研发多国纸币及防伪票据的多光谱图像图像采集、分析检测、鉴伪、机读识别等多项核心技术打破国外技术封锁，先后开发具有完全自主技术的银行专用A类点验钞机、多类型清分机、多国货币鉴伪仪 、1200DPI高清防伪票据图像采集仪等填补多项国内空白，达到国内领先水平。打破产品国外垄断，依赖进口的历史，产品在鉴伪性能、机读识读等多项性能指标达到和超过国际上同行产品性能，并且在率先在全球实现30多国纸币的冠字号机读识别。通过与国内多家大型金融机具生产厂家的合作，已将相关成果广泛推广应用点验钞机、清分机、票据鉴伪仪等产品中。相关产品进入包括中国银行、工商银行等4大国有银行及60余家商业银行。相关的鉴伪识读设备出口到欧盟、美国、印度等二十多个国家和地区。此部分相关成果今年正在申报相关科技奖励。
+<div class="t_grid_back">
+    <div>
+        <h2>学术交流</h2>
+    </div>
+    <div style="text-align: right;">
+        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/cooperations/platform">更多 ></a>
+    </div>
+</div>
 
-中心开发多类型证件鉴伪识读仪在首都机场航站楼自助安检通关查验得到全面应用， 并作为国庆七十周年献礼工程在首都T4航站楼、广州白云机场等全面商用， 相关产品在识读证件种类、人证核验、识读精度和速度等多项性能超过美国3M等公司产品性能。并建立国内首个全球护照防伪数据库，拟提供国家移民局及公安部门使用。
 
-开发银行专用票据打印扫描一体设备，在扫描速度、图像质量等多项性能超过全球同行产品，通过国内福建实达等多家国内企业生产销售，并在中国农业银行等招标中从性能多方面击败日本EPSON等多家国际巨头，并出口到海外市场。
+---
 
-先后开发了多项全息防伪领域的系列国内领先技术和产品。开发的全息塑料表面装饰烫印膜实现了ABS、PS、PP、PC四种基材通用，提高了全息材料耐性，实现320W荧光紫外灯照射12小时色差△E≤2.1，解决了全息技术不能运用于耐用消费品装饰表面的卡脖子问题；掌握了从PET基膜到模内转印膜片制备，再到模内注塑的全产业链核心技术，健全我国家电、3C和汽车产业链，实现国产替代进口，形成完整国产化产业链，填补了国内高端高耐磨、高耐候和金属质感的转印膜的技术空白；攻克特殊光变防伪膜批量化制造工艺，成功中标公安部护照项目，并荣获湖北省科技进步奖三等奖；自主开发高精度激光直写光刻技术，实现可定制光栅结构，成功应用于中国银联等系列产品；研制了证卡全息防伪膜系列产品，耐磨性能指标可达到400次（500g力下），成功以优异的性能和更低的价格取代进口产品，填补了证卡领域全息防伪技术的国内空白，显著增强了我国证卡领域高端全息防伪技术的核心竞争力和自主化水平。
+<div class="t_grid_01">
+    <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 
-研发新型全息高分子复合材料，通过光聚合反应制备，一步成型，工艺简单；利用材料全部体积，信息容量大，且具有裸眼3D效果，难以伪造；可实现全息、荧光、近红外等多功能的一体化，具有防伪垄断性；打破了美国杜邦、德国科思创等外企垄断和技术封锁。选择全息高分子与液晶、纳米粒子、发光分子等功能相有序复合，实现高性能化、多功能化，材料兼具折射率调制度更高，信息存储容量大、光调制能力强的优点。并突破大尺寸全息图像打印装备瓶颈，制造出第一代全息打印机。
+    <div>
+        <ul class="posts-list list-unstyled" role="list">
+            {% for post in site.tags.event limit: 3%}
+            <li>
+                <div class="news_grid">
+                    <div>
+                        {% assign date_format = "%Y-%m-%d" %}
+                        [{{ post.date | date: date_format }}]
+                    </div>
+                    <div>
+                        <a href="{{ post.url | absolute_url }}">
+                            {{ post.title | strip_html }}
+                        </a>
+                    </div>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 
-由中心牵头，中国检验检疫学会、农业农村部主管的中国农村合作经济管理学会参与，共同打造的产品追溯领域内第三方追溯系统网络平台“中国产品质量追溯系统网络平台”，入网平台的企业总数达到2万多家，涉及产品类别超过10多万种。并出口应用到菲律宾、塔吉克斯坦等国家和地区
+    <div style="text-align: right">
+        <img style="height: 80px;" src="/assets/img/index/1.png">
+    </div>
 
-中心有八个方面具有国内领先水平，包括全息二维码、全息高分子复合材料与全息打印、智能IC卡、金融机具、防伪票证智能鉴伪技术、综合防伪技术、电子标签封装技术、电子溯源技术；产品应用覆盖26个行业，包括食品、药品、金融、石油、通信等，研发产品出口到二十多个国家与地区；中心是19个行业协会理事长或者副理事长、会员单位，包括中国防伪技术协会、中国信息产业商会智能卡专业委员会等，中心是中国RFID产业联盟等四个国内产业联盟发起和参与单位，是SUN、国际全息制造商协会、亚太智能卡协会会员等九个国际组织会员单位。
+</div>
+
+<p></p>
+
+<div class="t_grid_back">
+    <div>
+        <h2>成果推荐</h2>
+    </div>
+    <div style="text-align: right;">
+        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/index">更多 ></a>
+    </div>
+</div>
+
+---
+
+<div class="t_grid_four">
+<div>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/index">
+        <img style="height: 150px;" src="/assets/img/team/l1.png">
+        <br>全息防伪技术<br>与制备工艺 
+    </a>
+</div>
+<div>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-2">
+        <img style="height: 150px;" src="/assets/img/industry/3/2-4.jpg">
+        <br>防伪功能材料与结构<br>-全息打印机
+    </a>
+</div>
+<div>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/2">
+        <img style="height: 150px;" src="/assets/img/team/l6.png">
+        <br>防伪检测与智能鉴伪<br>-金融票据
+    </a>
+</div>
+
+
+</div>
