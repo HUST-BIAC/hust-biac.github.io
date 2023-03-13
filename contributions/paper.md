@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 10:16:01
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-13 17:53:07
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -95,6 +95,33 @@ cover-img: /assets/img/title.jpg
 
 ---
 
+- Cai Zuo, Binghua Zhou, Ye Hyang Jo, Sibo Li, Gong Chen, Shaoqiao Li, Wen Luo, Dan He, Xingping Zhou*, Zhigang Xue*, ***Facile fabrication of a hybrid polymer electrolyte via initiator-free thiol-ene photopolymerization for high-performance all-solid-state lithium metal batteries***, Polymer Chemistry, 2020
+
+- Cai Zuo, Gong Chen, Yong Zhang, Huihui Gan, Shaoqiao Li, Liping Yu, Xingping Zhou*, Xiaolin Xie, Zhigang Xue*, ***Poly(epsilon-caprolactone)-block-poly(ethylene glycol)-block-poly (epsilon-caprolactone)-based hybrid polymer electrolyte for lithium metal batteries***, Journal of Membrane Science, 2020
+
+- Shuaishuai Zhu, Yajun Zhao, Mingli Ni, Jing Xu, Xingping Zhou, Yonggui Liao, Yong Wang*, Xiaolin Xie, ***One-Step and Metal-Free Synthesis of Triblock Quaterpolymers by Concurrent and Switchable Polymerization***, Acs Macro Letters, 2020
+
+- Shuaishuai Zhu, Yong Wang*, Wanzhi Ding, Xingping Zhou, Yonggui Liao, Xiaolin Xie, ***Lewis pair catalyzed highly selective polymerization for the one-step synthesis of A(z)C(y)(AB)(x)C(y)A(z) pentablock terpolymers***, Polymer Chemistry, 2020
+
+- Binghua Zhou, Mengling Yang, Cai Zuo, Gong Chen, Dan He*, Xingping Zhou, Chengmei Liu*, Xiaolin Xie, Zhigang Xue*, ***Flexible, Self-Healing, and Fire-Resistant Polymer Electrolytes Fabricated via Photopolymerization for All-Solid-State Lithium Metal Batteries***, Acs Macro Letters, 2020
+
+- Ye Zhao, Xiaoyu Zhao, Ming-De Li, Zhong'an Li, Haiyan Peng*, Xiaolin Xie, ***Crosstalk-free patterning of cooperative-thermoresponse images by the synergy of the AIEgen with the liquid crystal***, Angewandte Chemie-International Edition, 2020
+
+- Hongchao Yan, Yuan Qiu, Jing Wang, Qian Jiang, Hong Wang, Yonggui Liao*, Xiaolin Xie, ***Wholly Visible-Light-Responsive Host-Guest Supramolecular Gels Based on Methoxy Azobenzene and beta-Cyclodextrin Dimers***, Langmuir, 2020
+
+- Yingfeng Wen, Yang Xue, Xiaojing Li, Huijie Pei, Xingping Zhou*, Yuezhan Feng, Yunsheng Ye, Xiaolin Xie*, ***Yiu-Wing Mai, In-situ shear exfoliation and thermal conductivity of SBS/Graphite nanoplatelet nanocomposites***, Composites Part B: Engineering, 2020
+
+- Yingfeng Wen, Chao Chen, Yuezhan Feng, Zhigang Xue, Xingping Zhou*, Xiaolin Xie*, Yiu-Wing Mai, ***Effects of selective distribution of alumina micro-particles on rheological, mechanical and thermal conductive properties of asphalt/SBS/alumina composites***, Composites Science and Technology, 2020
+
+- Yong Wang*, Yajun Zhao, Shuaishuai Zhu, Xingping Zhou*, Jing Xu, Xiaolin Xie, Rinaldo Poli*, ***Switchable Polymerization Triggered by Fast and Quantitative Insertion of Carbon Monoxide into Cobalt-Oxygen Bonds***, Angewandte Chemie-International Edition, 2020
+
+- Ke Wang, Fan Li, Seon-Mi Jin, Kui Wang, Di Tian, Mubashir Hussain, Jiangping Xu, Lianbin Zhang*, Yonggui Liao, Eunji Lee, Gi-Ra Yi*, Xiaolin Xie, Jintao Zhu*, ***Chain-length effect on binary superlattices of polymer-tethered nanoparticles***, Materials chemistry frontiers, 2020
+
+- Jirong Wang, Xiaolin Xie, Zhigang Xue*, Christophe Fliedel, Rinaldo Poli*, ***Ligand- and solvent-free ATRP of MMA with FeBr3 and inorganic salts***, Polymer Chemistry, 2020
+
+- Jing Wang, Qian Jiang, Xingtian Hao, Hongchao Yan, Haiyan Peng, Bijin Xiong, Yonggui Liao*, Xiaolin Xie, ***Reversible photo-responsive gel-sol transitions of robust organogels based on an azobenzene-containing main-chain liquid crystalline polymer***, RSC Advances, 2020
+
+- Jing Wang, Xingtian Hao, Hongchao Yan, Qian Jiang, Haiyan Peng, Bijin Xiong*, Yonggui Liao*, Xiaolin Xie, ***Hydrogen bond driven self-supporting organogels from main-chain liquid crystalline polymers***, Polymer, 2020
 
 - Ziming Hong; Shiming Chen; Guosen Xie; Wenhan Yang; Jian Zhao; Yuanjie Shao; Qinmu Peng; Xinge You， ***Semantic Compression Embedding for Generative Zero-Shot Learning***，IJCAI. 2022.
 
