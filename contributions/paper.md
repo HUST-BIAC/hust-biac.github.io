@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 09:26:04
+ * @LastEditTime: 2023-03-13 10:16:01
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -18,7 +18,7 @@ cover-img: /assets/img/title.jpg
 
 ## 论文
 
-截止2022年底，中心发表期刊和会议论文共计500余篇，其中包括SCI收录406篇，JCR一区论文310篇。
+截止2022年底，中心发表期刊和会议论文共计500余篇，其中包括SCI收录406篇，中科院一区论文310篇，JCR1区论文125篇。
 
 <div align="center">
     <img style="height: 110px" src="/assets/img/contributions/pap1.jpg">

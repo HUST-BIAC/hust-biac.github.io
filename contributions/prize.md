@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 22:36:42
+ * @LastEditTime: 2023-03-13 10:30:17
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -18,7 +18,7 @@ cover-img: /assets/img/title.jpg
 
 ## 获得奖项
 
-中心获得国家、省部级及行业奖项29项，其中包括国家级奖项2项。省部级一等奖6项。
+中心获得国家、省部级及行业奖项29项，其中包括国家级奖项2项，省部级一等奖6项。
 
 <div align="center">
     <img style="height: 200px" src="/assets/img/contributions/pr1.png">
@@ -41,9 +41,12 @@ cover-img: /assets/img/title.jpg
 
 - <strong class="h_01">湖北省自然科学一等奖</strong> 面向语义理解的复杂图像表征与计算理论及方法研究
 - <strong class="h_01">湖北省自然科学一等奖</strong> 高分子复合材料的界面设计与破坏行为
+- <strong class="h_01">湖北省技术发明一等奖</strong> 基于IP的宽带移动多媒体通信新技术2008
+- <strong class="h_01">湖北省科技进步一等奖</strong> 光学防伪及机读鉴伪关键技术研究与应用
+- <strong class="h_01">教育部高等学校科技成果技术发明一等奖</strong> 立体视频获取与重建技术及装置
 - <strong class="h_01">湖北省自然科学二等奖</strong> 形状特征提取及相似性度量方法研究
 - <strong class="h_01">重庆市自然科学二等奖</strong> 图像模式结构多尺度分析的基础理论与应用方法研究
-- <strong class="h_01">湖北省科技进步一等奖</strong> 光学防伪及机读鉴伪关键技术研究与应用
+- <strong class="h_01">湖北省技术发明二等奖</strong> 衍射光栅加密及机读技
 - <strong class="h_01">湖北省科技进步二等奖</strong> 8万吨/年聚丙烯重大工艺改进
 - <strong class="h_01">湖北省科技进步二等奖</strong> 混合型多用途智能卡操作系统及系列产品
 - <strong class="h_01">湖北省科技进步二等奖</strong> 衍射光栅加密及机读技术
@@ -55,12 +58,10 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-- <strong class="h_01">湖北省技术发明一等奖</strong> 基于IP的宽带移动多媒体通信新技术2008
-- <strong class="h_01">湖北省技术发明二等奖</strong> 衍射光栅加密及机读技
-- <strong class="h_01">武汉市标准研制一等奖</strong> 防伪标识通用技术条件（GB/t22258-2008）
-- <strong class="h_01">中国标准创新贡献奖三等奖</strong> 防伪技术产品通用技术条件（GB/T19425-2003）
 - <strong class="h_01">中国防伪行业科技奖一等奖</strong> 定位脱铝全息加密综合防伪技术
 - <strong class="h_01">中国首届防伪科技一等奖</strong> 综合防伪全息快速定位烫印技术
+- <strong class="h_01">武汉市标准研制一等奖</strong> 防伪标识通用技术条件（GB/t22258-2008）
+- <strong class="h_01">中国标准创新贡献奖三等奖</strong> 防伪技术产品通用技术条件（GB/T19425-2003）
 - <strong class="h_01">全国烟标高新工艺高新材料金奖</strong> 多技术综合防伪全息定位烫印
 - <strong class="h_01">日内瓦国际发明银奖</strong> 基于光聚合物材料的3D全彩色图像存储技术
 - <strong class="h_01">国家金卡工程金蚂蚁奖</strong> 创新产品奖
