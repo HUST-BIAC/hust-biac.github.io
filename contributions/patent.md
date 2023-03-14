@@ -28,8 +28,8 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-- **US11009829 B2**  DUAL IMAGE STORAGE MATERIAL AS WELL AS PREPARATION METHOD AND APPLICATION THEREOF
 - **US11222662 B2** DIRECTLY PRINTABLE IMAGE RECORDING MATERIAL AND PREPARATION METHOD THEREOF
+- **US11009829 B2**  DUAL IMAGE STORAGE MATERIAL AS WELL AS PREPARATION METHOD AND APPLICATION THEREOF
 - **US10140556 B2** Arabic optical charachter recognition using hidden markov models and decision trees
 - **US 9753431 B2** Visible light photoinitiating system for preparing high diffraction efficiency hologram optical polymer material
 - ...

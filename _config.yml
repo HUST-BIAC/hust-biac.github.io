@@ -42,6 +42,10 @@ navbar-links:
     - 标准: "/contributions/standard"
     - 专利: "/contributions/patent"
     - 论文: "/contributions/paper"
+  产业化基地:
+    - 武汉华工图像技术开发有限公司: "https://www.hgimage.com/"
+    - 武汉华工赛百数据系统有限公司: "https://www.hgcyberdata.com/"
+    - 武汉天喻信息产业股份有限公司: "http://www.whty.com.cn/"
   代表性工程化成果:
     - 全息防伪技术与制备工艺: "/industry/0"
     - 防伪功能材料与结构-激光全息高分子材料: "/industry/3-1"
@@ -53,8 +57,7 @@ navbar-links:
     - 产品溯源关键技术与平台: "/industry/6"
     - 信息加密与防伪: "/industry/5"
     - 生物特征识别与应用: "/industry/4"
-  产业化结果与对外合作:
-    - 产业化基地: "/cooperations/industrializationBase"
+  对外服务与合作:
     - 校企共建联合实验室: "/cooperations/jointLabs"
     - 服务合作机构: "/cooperations/services_index"
     - 国际合作: "/cooperations/platform"

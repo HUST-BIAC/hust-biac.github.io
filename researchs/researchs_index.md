@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 23:19:56
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-14 18:01:33
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -176,7 +176,7 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-- 专版定位镭射烫金膜；
-- 专版不定位镭射烫金膜
-- 通用版镭射烫金膜；
+- 专版定位镭射烫金膜技术；
+- 专版不定位镭射烫金膜技术；
+- 通用版镭射烫金膜技术；
 - 镭射防伪包装材料及综合加密防伪标识制版及生产工艺。

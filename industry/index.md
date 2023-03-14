@@ -6,8 +6,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-14 11:04:08
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-14 11:21:54
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-14 17:52:46
  * @Description: file contentage
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -32,7 +32,6 @@ cover-img: /assets/img/title.jpg
         <img style="height: 150px;" src="/assets/img/team/l6.png">
         <br>防伪检测与智能鉴伪<br>-金融票据
     </a>
-
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-1">
         <img style="height: 150px;" src="/assets/img/logo.png">
         <br>防伪功能材料与结构-激光全息高分子材料

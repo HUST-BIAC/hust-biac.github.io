@@ -138,16 +138,16 @@ cover-img: /assets/img/title.jpg
 ---
 
 <div class="t_grid_industry">
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/index">
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/0">
         <img style="height: 150px;" src="/assets/img/team/l1.png">
         <br>全息防伪技术<br>与制备工艺
-    </a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-2">
-        <img style="height: 150px;" src="/assets/img/industry/3/2-4.jpg">
-        <br>防伪功能材料与结构<br>-全息打印机
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/2">
         <img style="height: 150px;" src="/assets/img/team/l6.png">
         <br>防伪检测与智能鉴伪<br>-金融票据
+    </a>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-2">
+        <img style="height: 150px;" src="/assets/img/industry/3/2-4.jpg">
+        <br>防伪功能材料与结构<br>-全息打印机
     </a>
 </div>
