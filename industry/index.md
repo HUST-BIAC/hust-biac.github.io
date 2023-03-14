@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 代表性工业化成果
+title: 代表性工程化成果
 cover-img: /assets/img/title.jpg
 ---
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-14 11:04:08
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-14 11:19:33
+ * @LastEditTime: 2023-03-14 11:21:54
  * @Description: file contentage
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -15,7 +15,7 @@ cover-img: /assets/img/title.jpg
 
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
-## 代表性工业化成果
+## 代表性工程化成果
 
 <p></p>
 
