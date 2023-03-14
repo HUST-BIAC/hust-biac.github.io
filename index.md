@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-14 10:23:30
+ * @LastEditTime: 2023-03-14 11:18:08
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -22,12 +22,6 @@ cover-img: /assets/img/title.jpg
     .t_grid_01 {
         display: grid;
         grid-template-columns: 75% auto;
-        grid-gap: 60px 2%;
-    }
-
-    .t_grid_four {
-        display: grid;
-        grid-template-columns: 32% 32% 32%;
         grid-gap: 60px 2%;
     }
 </style>
@@ -143,7 +137,7 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-<div class="t_grid_four">
+<div class="t_grid_industry">
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/index">
         <img style="height: 150px;" src="/assets/img/team/l1.png">
         <br>全息防伪技术<br>与制备工艺
