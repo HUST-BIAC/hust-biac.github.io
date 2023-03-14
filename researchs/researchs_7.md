@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 19:11:50
+ * @LastEditTime: 2023-03-14 09:44:57
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -29,7 +29,10 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-智能卡及芯片安全，智能传感器，RFID芯片及加密技术、天线。
+- 智能卡及芯片安全；
+- 智能传感器；
+- RFID芯片及加密技术；
+- 智能超表面与天线技术。
 
 #### 智能卡及芯片安全
 ---

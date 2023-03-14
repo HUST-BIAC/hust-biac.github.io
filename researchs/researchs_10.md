@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 19:12:38
+ * @LastEditTime: 2023-03-14 09:46:04
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -29,7 +29,10 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-专版定位镭射烫金膜、专版不定位镭射烫金膜、通用版镭射烫金膜、镭射防伪包装材料及综合加密防伪标识
+- 专版定位镭射烫金膜；
+- 专版不定位镭射烫金膜
+- 通用版镭射烫金膜；
+- 镭射防伪包装材料及综合加密防伪标识制版及生产工艺。
 
 #### 镭射烫金膜
 ---

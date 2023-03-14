@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 19:06:48
+ * @LastEditTime: 2023-03-14 09:28:46
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -29,7 +29,8 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-激光全息高分子材料、自组装光学防伪材料。
+- 激光全息高分子材料；
+- 自组装光学防伪材料。
 
 #### 激光全息高分子材料
 ---
