@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 16:16:50
+ * @LastEditTime: 2023-03-14 09:24:39
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -113,11 +113,9 @@ cover-img: /assets/img/title.jpg
 - 光学全息技术实验室
 - 防伪印制工艺及设备实验室
 - 人工智能与机器视觉实验室
-- 信息加密与对抗实验室
 - 防伪检测与设备实验室
-- 生物特征识别与智能信息系统实验室
-- 区块链与防伪溯源实验室
-- 多媒体（数字）防伪与安全实验室
+- 区块链技术与防伪溯源实验室
+- 多媒体处理与信息安全实验室
 - 智能传感与物联网实验室
 
 ### 测试中心
