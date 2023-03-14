@@ -22,7 +22,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>智能传感与物联网技术</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_index">返回研究方向首页</a>
     </div>
 </div>

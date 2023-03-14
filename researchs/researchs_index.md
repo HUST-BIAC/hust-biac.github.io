@@ -22,7 +22,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>1. 防伪功能材料与结构</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_0">详情</a>
     </div>
 </div>
@@ -36,7 +36,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>2. 人工智能与机器视觉</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_1">详情</a>
     </div>
 </div>
@@ -53,7 +53,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>3. 防伪检测与设备</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_2">详情</a>
     </div>
 </div>
@@ -71,7 +71,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>4. 防伪印制工艺与设备</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_3">详情</a>
     </div>
 </div>
@@ -86,7 +86,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>5. 光学防伪与全息技术</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_4">详情</a>
     </div>
 </div>
@@ -102,7 +102,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>6. 多媒体处理与信息安全</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_5">详情</a>
     </div>
 </div>
@@ -120,7 +120,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>7. 生物特征识别与身份安全</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_6">详情</a>
     </div>
 </div>
@@ -136,7 +136,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>8. 智能传感与物联网技术</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_7">详情</a>
     </div>
 </div>
@@ -153,7 +153,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>9. 区块链与防伪溯源</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_8">详情</a>
     </div>
 </div>
@@ -169,7 +169,7 @@ cover-img: /assets/img/title.jpg
     <div>
         <h3>10. 综合防伪集成技术</h3>
     </div>
-    <div align="right">
+    <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_10">详情</a>
     </div>
 </div>
