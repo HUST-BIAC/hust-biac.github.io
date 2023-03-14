@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 19:12:19
+ * @LastEditTime: 2023-03-14 09:45:33
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -29,7 +29,10 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-区块链技术、基于区块链技术的产品溯源与防伪、数字货币技术、数字货币与实体货币信息交换技术与终端装备。
+- 区块链理论与技术；
+- 基于区块链技术的产品溯源与防伪；
+- 数字货币技术；
+- 数字货币与实体货币信息交换技术与终端装备。
 
 #### 区块链全层追溯流程
 ---

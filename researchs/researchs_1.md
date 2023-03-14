@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 19:58:26
+ * @LastEditTime: 2023-03-14 09:28:54
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -29,7 +29,11 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-基于人工智能及智能物联相关的防伪、鉴伪理论与技术，图像、自然语言如文字、语音识别理论及技术、自主识别多功能机器人、运动评测机器人。
+- 人工智能与机器视觉理论与算法；
+- 基于人工智能的防伪；
+- 鉴伪理论与技术；
+- 自然语言处理；
+- 机器人算法与系统。
 
 #### 基于人工智能及智能物联相关的防伪、鉴伪理论与技术
 ---

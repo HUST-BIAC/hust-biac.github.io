@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 20:06:21
+ * @LastEditTime: 2023-03-14 09:29:05
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -29,7 +29,11 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-各类货币及防伪票据、证照的多光谱防伪特征成像及获取技术、多模态防伪特征融合鉴伪与识别、防伪检测装备及系统、金融票据检测装备、多国货币鉴伪、清分设备、防伪文检鉴伪及检测装备。
+- 防伪票证多光谱防伪特征成像及获取技术；
+- 多模态防伪特征提取及融合鉴伪与识别技术；
+- 防伪票据、证照鉴伪与检测装备及系统；
+- 防伪票证、防伪标识生产制造与检测装备；
+- 货币印制检测与清分设备。
 
 #### 防伪信息的获取与成像
 ---

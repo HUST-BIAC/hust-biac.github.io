@@ -7,12 +7,9 @@ cover-img: /assets/img/title.jpg
 <h2>新闻动态</h2>
 <hr />
 
-{% assign posts = paginator.posts | default: site.posts %}
-
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
-  {% if post.tags contains "news" %}
+  {% for post in site.tags.news %}
   <li class="post-preview">
     <article>
 
@@ -52,7 +49,7 @@ cover-img: /assets/img/title.jpg
 
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        发布于 {{ post.date | date: date_format }}
+        新闻 | 发布于 {{ post.date | date: date_format }}
       </p>
 
       {% if thumbnail != "" %}
@@ -98,7 +95,6 @@ cover-img: /assets/img/title.jpg
 
     </article>
   </li>
-  {% endif %}
   {% endfor %}
 </ul>
 

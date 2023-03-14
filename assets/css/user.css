@@ -2,7 +2,7 @@
  * @Author: Conghao Wong
  * @Date: 2023-03-03 16:11:49
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 19:52:07
+ * @LastEditTime: 2023-03-14 00:45:18
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -109,5 +109,6 @@
     display: grid;
     grid-template-columns: 72% 28%;
     grid-gap: 20px 0%;
-    /* text-align: center; */
+    vertical-align: baseline;
+    align-items: end;
 }

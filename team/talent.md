@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 09:57:26
+ * @LastEditTime: 2023-03-13 23:24:40
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -142,11 +142,11 @@ cover-img: /assets/img/title.jpg
     </div>
 
     <div>
-        <img src="/assets/img/team/t14.jpg">
+        <img src="/assets/img/team/t14.png">
     </div>
     <div>
         <a href="http://eic.hust.edu.cn/professor/wankai/">万凯</a>
-        ，教授，获得湖北省百人计划、东湖青年人才计划基金。2018年获得通信博士学位，2018年至2022年在柏林工业大学担任博士后研究员。研究兴趣包括信息论， 编码技术及其在编码缓存方面的应用，索引编码、，分布式存储，分布式计算，无线通信，隐私以及安全，机器学习。现任IEEE Communications的副主编。
+        ，博士、教授、博士生导师，国家级青年人才，华中科技大学东湖学者，湖北省百人计划入选者，获华中科技大学学术新人奖，从事信息论与编码领域研究，发表论文50余篇，书章节一章，信息论旗舰IEEE TIT 9篇。
     </div>
 
     <div>
@@ -154,6 +154,6 @@ cover-img: /assets/img/title.jpg
     </div>
     <div>
         <a href="http://eic.hust.edu.cn/aprofessor/liaozhenyu/">廖振宇</a>
-        ，副教授，获得东湖青年人才计划基金。2019年在巴黎萨克雷大学中央理工学院获得博士学位，2020年在加州大学伯克利分校统计系担任博士后研究员。研究兴趣包括机器学习、信号处理、随机矩阵理论和高维统计。
+        ，博士、副研究员、硕士生导师，“武汉英才”优秀青年人才，华中科技大学东湖学者，获巴黎萨克雷大学优秀博士论文奖。从事机器学习和统计理论研究，成果发表于ICML, NeurIPS, ICLR, COLT等机器学习顶级会议20余篇，出版学术专著一部。
     </div>
 </div>

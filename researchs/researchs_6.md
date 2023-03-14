@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 19:11:38
+ * @LastEditTime: 2023-03-14 09:44:28
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -20,7 +20,7 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid_back">
     <div>
-        <h3>生物特征识别与智能信息系统</h3>
+        <h3>生物特征识别与身份安全</h3>
     </div>
     <div align="right">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_index">返回研究方向首页</a>
@@ -29,7 +29,9 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-人脸、虹膜、指纹等生物特征识别理论及相关技术，生物特征伪造识别与检测，多应用场景生物特征识别技术、传感器及芯片技术。
+- 人脸、虹膜、指纹等生物特征识别理论及相关技术；
+- 生物特征伪造识别与检测；
+- 多应用场景生物特征识别技术、传感器及芯片技术。
 
 #### 生物特征识别理论及相关技术
 ---

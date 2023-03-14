@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 对外合作与交流
-subtitle: 合作服务单位
+title: 产业化结果与对外合作
+subtitle: 服务合作机构
 cover-img: /assets/img/title.jpg
 ---
 <!--
@@ -34,7 +34,7 @@ cover-img: /assets/img/title.jpg
 
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
-## 合作服务单位
+## 服务合作机构
 
 <div class="t_grid">
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/cooperations/services_index">国家重大工程</a>

@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 19:48:14
+ * @LastEditTime: 2023-03-13 23:19:56
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -29,7 +29,8 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-激光全息高分子材料、自组装光学防伪材料。
+- 激光全息高分子材料；
+- 自组装光学防伪材料。
 
 <div class="t_grid_back">
     <div>
@@ -42,7 +43,11 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-基于人工智能及智能物联相关的防伪、鉴伪理论与技术， 图像、自然语言如文字、语音识别理论及技术、自主识别多功能机器人、运动评测机器人。
+- 人工智能与机器视觉理论与算法；
+- 基于人工智能的防伪；
+- 鉴伪理论与技术；
+- 自然语言处理；
+- 机器人算法与系统。
 
 <div class="t_grid_back">
     <div>
@@ -55,7 +60,12 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-各类货币及防伪票据、证照的多光谱防伪特征成像及获取技术、多模态防伪特征融合鉴伪与识别、防伪检测装备及系统、金融票据检测装备、 多国货币鉴伪、清分设备、防伪文检鉴伪及检测装备。
+- 防伪票证多光谱防伪特征成像及获取技术；
+- 多模态防伪特征提取及融合鉴伪与识别技术；
+- 防伪票据、证照鉴伪与检测装备及系统；
+- 防伪票证、防伪标识生产制造与检测装备；
+- 货币印制检测与清分设备。
+
 
 <div class="t_grid_back">
     <div>
@@ -68,11 +78,13 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-金融票据、防伪证照、防伪标识多光谱多模态防伪成像印制工艺、印制设备、印制过程中智能检测与识别技术及设备， 如凹印机及凹印检测、微缩成像印制及检测。
+- 金融票据、防伪证照、防伪标识印制工艺与设备；
+- 防伪票证及标识印制生产中智能检测与识别技术及设备。
+
 
 <div class="t_grid_back">
     <div>
-        <h3>5. 智能化信息加密与安全</h3>
+        <h3>5. 光学防伪与全息技术</h3>
     </div>
     <div align="right">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_4">详情</a>
@@ -81,11 +93,14 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-多光谱成像、光栅加密、运用全息印刷技术做出防伪标识、隐形标识系统、激光编码等技术。
+- 多光谱防伪成像技术；
+- 光栅衍射、加密理论与实现技术；
+- 多维成像技术与全息成像及印刷技术。
+
 
 <div class="t_grid_back">
     <div>
-        <h3>6. 多媒体（数字）防伪与安全</h3>
+        <h3>6. 多媒体处理与信息安全</h3>
     </div>
     <div align="right">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_5">详情</a>
@@ -94,11 +109,16 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-网络空间安全，图像、视频的伪造与检测，基于VR技术的防伪与鉴伪、元宇宙技术多媒体防伪技术研究。
+- 多媒体编码与加密；
+- 图像、视频的伪造与检测；
+- 基于VR技术的防伪与鉴伪；
+- 元宇宙技术及基于元宇宙技术新型防伪理论与方法。
+<!-- - 李珩补。。。。。。 -->
+
 
 <div class="t_grid_back">
     <div>
-        <h3>7. 生物特征识别与智能信息系统</h3>
+        <h3>7. 生物特征识别与身份安全</h3>
     </div>
     <div align="right">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_6">详情</a>
@@ -107,7 +127,10 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-人脸、虹膜、指纹等生物特征识别理论及相关技术，生物特征伪造识别与检测，多应用场景生物特征识别技术、传感器及芯片技术。
+- 人脸、虹膜、指纹等生物特征识别理论及相关技术；
+- 生物特征伪造识别与检测；
+- 多应用场景生物特征识别技术、传感器及芯片技术。
+
 
 <div class="t_grid_back">
     <div>
@@ -120,11 +143,15 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-智能卡及芯片安全，智能传感器， RFID芯片及加密技术、天线。
+- 智能卡及芯片安全；
+- 智能传感器；
+- RFID芯片及加密技术；
+- 智能超表面与天线技术。
+
 
 <div class="t_grid_back">
     <div>
-        <h3>9. 光学防伪与全息技术</h3>
+        <h3>9. 区块链与防伪溯源</h3>
     </div>
     <div align="right">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_8">详情</a>
@@ -133,24 +160,14 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-多维成像技术、多光谱成像、光栅衍射与加密理论及技术。
+- 区块链理论与技术；
+- 基于区块链技术的产品溯源与防伪；
+- 数字货币技术；
+- 数字货币与实体货币信息交换技术与终端装备。
 
 <div class="t_grid_back">
     <div>
-        <h3>10. 区块链与防伪溯源</h3>
-    </div>
-    <div align="right">
-        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_9">详情</a>
-    </div>
-</div>
-
----
-
-区块链技术、基于区块链技术的产品溯源与防伪、数字货币技术、数字货币与实体货币信息交换技术与终端装备。
-
-<div class="t_grid_back">
-    <div>
-        <h3>11. 综合防伪集成技术</h3>
+        <h3>10. 综合防伪集成技术</h3>
     </div>
     <div align="right">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_10">详情</a>
@@ -159,4 +176,7 @@ cover-img: /assets/img/title.jpg
 
 ---
 
-专版定位镭射烫金膜、专版不定位镭射烫金膜、通用版镭射烫金膜、镭射防伪包装材料及综合加密防伪标识。
+- 专版定位镭射烫金膜；
+- 专版不定位镭射烫金膜
+- 通用版镭射烫金膜；
+- 镭射防伪包装材料及综合加密防伪标识制版及生产工艺。
