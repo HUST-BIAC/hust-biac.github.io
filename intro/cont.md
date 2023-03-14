@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 12:57:18
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-14 15:34:26
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -18,7 +18,7 @@ cover-img: /assets/img/title.jpg
 
 - 地址：湖北省武汉市洪山区珞喻路1037号华中科技大学国家防伪工程技术研究中心
 - 电话：027-87544817
-- 邮箱：hzkj_2010@163.com
+- 邮箱：nacerc@hust.edu.cn
 
 <div style="text-align: center;">
      <img src="/assets/img/intro/c1.png">
