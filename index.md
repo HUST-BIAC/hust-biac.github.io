@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-14 01:38:13
+ * @LastEditTime: 2023-03-14 10:23:30
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -67,7 +67,7 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid_back">
     <div>
-        <h2>中心介绍</h2>
+        <h2>中心简介</h2>
     </div>
     <div style="text-align: right;">
         <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/intro/introduction">更多 ></a>
@@ -144,24 +144,16 @@ cover-img: /assets/img/title.jpg
 ---
 
 <div class="t_grid_four">
-<div>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/index">
         <img style="height: 150px;" src="/assets/img/team/l1.png">
-        <br>全息防伪技术<br>与制备工艺 
+        <br>全息防伪技术<br>与制备工艺
     </a>
-</div>
-<div>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-2">
         <img style="height: 150px;" src="/assets/img/industry/3/2-4.jpg">
         <br>防伪功能材料与结构<br>-全息打印机
     </a>
-</div>
-<div>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/2">
         <img style="height: 150px;" src="/assets/img/team/l6.png">
         <br>防伪检测与智能鉴伪<br>-金融票据
     </a>
-</div>
-
-
 </div>

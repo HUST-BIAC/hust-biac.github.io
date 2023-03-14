@@ -8,15 +8,13 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 23:57:23
+ * @LastEditTime: 2023-03-14 10:27:53
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
 -->
 
-## 国际合作
-
-### 国际平台
+## 国际平台
 
 ---
 
@@ -115,8 +113,7 @@ cover-img: /assets/img/title.jpg
   {% endfor %}
 </ul>
 
-
-### 对外活动
+## 对外活动
 
 ---
 
