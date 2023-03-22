@@ -42,7 +42,7 @@ cover-img: /assets/img/title.jpg
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/1">
         <img style="height: 150px;" src="/assets/img/logo.png">
-        <br>防伪检测与智能鉴伪-证照
+        <br>证照防伪检测与智能鉴伪
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/2-2">
         <img style="height: 150px;" src="/assets/img/logo.png">
