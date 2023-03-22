@@ -6,8 +6,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: shuoye
- * @LastEditTime: 2023-03-14 18:06:37
+ * @LastEditors: Conghao Wong
+ * @LastEditTime: 2023-03-22 09:35:50
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -140,14 +140,14 @@ cover-img: /assets/img/title.jpg
 <div class="t_grid_industry">
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/0">
         <img style="height: 150px;" src="/assets/img/team/l1.png">
-        <br>全息防伪技术<br>与制备工艺
+        <br>全息防伪技术与制备工艺
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/2">
         <img style="height: 150px;" src="/assets/img/team/l6.png">
-        <br>防伪检测与智能鉴伪<br>-金融票据
+        <br>防伪票据智能鉴伪与识读技术及装备
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-2">
         <img style="height: 150px;" src="/assets/img/industry/3/2-4.jpg">
-        <br>防伪功能材料与结构<br>-全息打印机
+        <br>防伪功能材料与结构-全息打印机
     </a>
 </div>
