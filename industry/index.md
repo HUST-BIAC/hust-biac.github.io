@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-14 11:04:08
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-22 09:35:15
+ * @LastEditTime: 2023-03-23 09:12:19
  * @Description: file contentage
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -59,5 +59,9 @@ cover-img: /assets/img/title.jpg
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/4">
         <img style="height: 150px;" src="/assets/img/logo.png">
         <br>生物特征识别与应用
+    </a>
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/7">
+        <img style="height: 150px;" src="/assets/img/logo.png">
+        <br>NEW.防伪用全息塑料及其加工技术
     </a>
 </div>
