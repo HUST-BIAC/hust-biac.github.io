@@ -54,7 +54,7 @@ cover-img: /assets/img/title.jpg
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/5">
         <img style="height: 150px;" src="/assets/img/logo.png">
-        <br>信息加密与防伪
+        <br>信息加密与智能IC卡
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/4">
         <img style="height: 150px;" src="/assets/img/logo.png">
