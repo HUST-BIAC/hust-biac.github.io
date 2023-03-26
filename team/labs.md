@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-13 23:28:46
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-26 22:53:11
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -110,6 +110,7 @@ cover-img: /assets/img/title.jpg
         <br><strong class="h_02">研发骨干</strong> ：
         <a href="http://bmal.hust.edu.cn/info/1005/1091.htm">尤新革</a>，
         <a href="http://faculty.hust.edu.cn/baixiang/zh_CN/index.htm">白翔</a>，
+        <a href="http://eic.hust.edu.cn/professor/tianyan/">田岩</a>，
         <a href="http://faculty.hust.edu.cn/xwang/zh_CN/index.htm">王兴刚</a>，
         杨欣，
         <a href="http://bmal.hust.edu.cn/info/1005/1344.htm">邵远杰</a>，
