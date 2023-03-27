@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-14 09:24:39
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-27 09:14:47
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -39,7 +39,7 @@ cover-img: /assets/img/title.jpg
     }
 </style>
 
-### 管理委员会
+<!-- ### 管理委员会
 ---
 
 <div class="t_grid">
@@ -47,7 +47,7 @@ cover-img: /assets/img/title.jpg
         <p><strong class="h_01">主任</strong>：</p>
         <p><strong class="h_02">副主任</strong>：</p>
     </div>
-</div>
+</div> -->
 
 
 ### 技术委员会
