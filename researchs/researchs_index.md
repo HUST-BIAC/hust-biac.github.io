@@ -155,7 +155,7 @@ cover-img: /assets/img/title.jpg
         <h3>9. 区块链与防伪溯源</h3>
     </div>
     <div style="text-align: right;">
-        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_8">详情</a>
+        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/researchs/researchs_9">详情</a>
     </div>
 </div>
 

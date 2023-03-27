@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 16:59:43
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-27 16:02:52
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -27,29 +27,6 @@ cover-img: /assets/img/title.jpg
 <p></p>
 
 <div class="t_grid">
-    <div>
-        <img src="/assets/img/team/d1.jpg">
-    </div>
-    <div>
-        <a href="https://www2.scut.edu.cn/cs/2019/0724/c22284a328910/page.htm">陈俊龙</a>
-        （C. L. Philip Chen）博士，华南理工大学讲席教授，博导，计算机科学与工程学院院长。国家特聘专家。曾任澳门大学科技学院讲席教授、科技学院院长，美国德州大学工学院终身教授、工学院副院长及电机计算机系主任。陈教授是IEEE Fellow，美国科学促进会AAAS Fellow，IAPR Fellow，国际系统及控制论科学院 IASCYS 院士，香港工程师学会 Fellow，我国自动化学会的Fellow及常务理事。陈教授现任IEEE Transactions on Cybernetics主编，曾任 IEEE Transactions on Systems, Man, and Cybernetics: Systems 期刊主编 （2014-2019）。陈教授曾任该学会国际总主席（President，2012-2013），资深主席 (Senior Past President，2014-2017)，担任IEEE SMC学会 IEEE Fellow 的评审委员主席，常务理事及杰出演讲师。陈教授在国际重要学术刊物上发表论文500余篇，其中SCI文章300余篇（200余篇在IEEE Transactions），多次获得最佳论文奖项。
-    </div>
-
-    <div>
-        <img src="/assets/img/team/d2.jpg">
-    </div>
-    <div>
-        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">陶大程</a>
-        ，澳大利亚科学院院士、欧洲科学院外籍院士，中国科学技术大学工学学士、香港中文大学哲学硕士、英国伦敦大学哲学博士。毕业后，陶大程先后在中国香港理工大学计算学系担任助理教授，新加坡南洋理工大学担任南洋助理教授，澳大利亚悉尼科技大学工程与信息技术学院担任教授，悉尼大学担任教授、PeterNicolRussell讲习教授、澳大利亚桂冠教授。陶大程现任京东探索研究院首任院长，清华大学智能产业研究院（AIR）担任卓越访问教授、中国科学技术大学大师讲席教授、悉尼大学数字科学研究所顾问及首席科学家。
-    </div>
-
-    <div>
-        <img src="/assets/img/team/d4.jpg">
-    </div>
-    <div>
-        <a href="https://www.fst.um.edu.mo/people/yytang/">唐远炎</a>
-        ，教授，博士生导师，澳门大学计算机与信息科学系首席教授，香港浸会大学计算机科学系名誉教授（Honorary Professor）， 国际电子电气工程学会会士(IEEE Fellow),国际模式识别学会会士(IAPR Fellow)，国际模式识别技术委员会主席 (IEEE SMC)，中国自动化学会常务理事。唐远炎教授长期从事模式识别及图像处理等领域的科学研究，已取得了一系列高创新性，具有国际先进水平的研究成果。特别是因在科学技术进步工作中做出了重大贡献而荣获2005年教育部自然科学奖一等奖。主要研究成果已有两百四十余篇发表了在高水平的国际刊物和国际会议上。
-    </div>
 
     <div>
         <img src="/assets/img/team/d5.png">
@@ -80,6 +57,31 @@ cover-img: /assets/img/title.jpg
         Professor Yiu-Wing Mai is distinguished for seminal work on fracture mechanics and materials science of advanced engineering materials. He joined the University of Sydney in 1976. Through his many publications in the past four decades, Mai has made outstanding and lasting contributions to scientific and engineering knowledge in several research areas.
 
     </div>
+
+    <div>
+        <img src="/assets/img/team/d1.jpg">
+    </div>
+    <div>
+        <a href="https://www2.scut.edu.cn/cs/2019/0724/c22284a328910/page.htm">陈俊龙</a>
+        （C. L. Philip Chen）博士，华南理工大学讲席教授，博导，计算机科学与工程学院院长。国家特聘专家。曾任澳门大学科技学院讲席教授、科技学院院长，美国德州大学工学院终身教授、工学院副院长及电机计算机系主任。陈教授是IEEE Fellow，美国科学促进会AAAS Fellow，IAPR Fellow，国际系统及控制论科学院 IASCYS 院士，香港工程师学会 Fellow，我国自动化学会的Fellow及常务理事。陈教授现任IEEE Transactions on Cybernetics主编，曾任 IEEE Transactions on Systems, Man, and Cybernetics: Systems 期刊主编 （2014-2019）。陈教授曾任该学会国际总主席（President，2012-2013），资深主席 (Senior Past President，2014-2017)，担任IEEE SMC学会 IEEE Fellow 的评审委员主席，常务理事及杰出演讲师。陈教授在国际重要学术刊物上发表论文500余篇，其中SCI文章300余篇（200余篇在IEEE Transactions），多次获得最佳论文奖项。
+    </div>
+
+    <div>
+        <img src="/assets/img/team/d2.jpg">
+    </div>
+    <div>
+        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">陶大程</a>
+        ，澳大利亚科学院院士、欧洲科学院外籍院士，中国科学技术大学工学学士、香港中文大学哲学硕士、英国伦敦大学哲学博士。毕业后，陶大程先后在中国香港理工大学计算学系担任助理教授，新加坡南洋理工大学担任南洋助理教授，澳大利亚悉尼科技大学工程与信息技术学院担任教授，悉尼大学担任教授、PeterNicolRussell讲习教授、澳大利亚桂冠教授。陶大程现任京东探索研究院首任院长，清华大学智能产业研究院（AIR）担任卓越访问教授、中国科学技术大学大师讲席教授、悉尼大学数字科学研究所顾问及首席科学家。
+    </div>
+
+    <div>
+        <img src="/assets/img/team/d4.jpg">
+    </div>
+    <div>
+        <a href="https://www.fst.um.edu.mo/people/yytang/">唐远炎</a>
+        ，教授，博士生导师，澳门大学计算机与信息科学系首席教授，香港浸会大学计算机科学系名誉教授（Honorary Professor）， 国际电子电气工程学会会士(IEEE Fellow),国际模式识别学会会士(IAPR Fellow)，国际模式识别技术委员会主席 (IEEE SMC)，中国自动化学会常务理事。唐远炎教授长期从事模式识别及图像处理等领域的科学研究，已取得了一系列高创新性，具有国际先进水平的研究成果。特别是因在科学技术进步工作中做出了重大贡献而荣获2005年教育部自然科学奖一等奖。主要研究成果已有两百四十余篇发表了在高水平的国际刊物和国际会议上。
+    </div>
+
 
     <div>
         <img src="/assets/img/team/d3.png">

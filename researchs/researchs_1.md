@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-14 09:28:54
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-27 15:57:09
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -44,7 +44,7 @@ cover-img: /assets/img/title.jpg
     <img style="height: 250px;" src="/assets/img/researchs/1/image001.png">
 </div> 
 
-#### 图像、自然语言识别理论及技术
+#### 图像、视频、自然语言识别理论及技术
 ---
 
 <div style="text-align: center;">

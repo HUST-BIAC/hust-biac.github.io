@@ -7,8 +7,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-12 21:01:29
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-03-27 16:04:54
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -82,7 +82,7 @@ cover-img: /assets/img/title.jpg
 
 <div class="t_grid">
     <div class="t_title">
-        <h1><strong class="hf_02">目标定位</strong></h1>
+        <h1><strong class="hf_01">目标定位</strong></h1>
     </div>
     <div class="t_content">
         <ul>

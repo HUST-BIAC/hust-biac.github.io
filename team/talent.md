@@ -132,7 +132,7 @@ cover-img: /assets/img/title.jpg
     </div>
 
     <div>
-        <img src="/assets/img/team/t12.png">
+        <img src="/assets/img/team/t12.jpg">
     </div>
     <div>
         <a href="http://bmal.hust.edu.cn/info/1005/1091.htm">尤新革</a>
@@ -146,7 +146,7 @@ cover-img: /assets/img/title.jpg
     </div>
     <div>
         <a href="http://eic.hust.edu.cn/professor/wankai/">万凯</a>
-        ，博士、教授、博士生导师，国家级青年人才，华中科技大学东湖学者，湖北省百人计划入选者，获华中科技大学学术新人奖，从事信息论与编码领域研究，发表论文50余篇，书章节一章，信息论旗舰IEEE TIT 9篇。
+        ，博士、教授、博士生导师，国家级青年人才，华中科技大学东湖学者，海外优青，湖北省百人计划入选者，获华中科技大学学术新人奖，从事信息论与编码领域研究，发表论文50余篇，书章节一章，信息论旗舰IEEE TIT 9篇。
     </div>
 
     <div>
