@@ -24,13 +24,13 @@ cover-img: /assets/img/title.jpg
         <img style="height: 150px;" src="/assets/img/team/l1.png">
         <br>全息防伪技术与制备工艺
     </a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-2">
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/7">
+        <img style="height: 150px;" src="/assets/img/logo.png">
+        <br>防伪用全息塑料及其加工技术
+    </a>
+    <!-- <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-2">
         <img style="height: 150px;" src="/assets/img/industry/3/2-4.jpg">
         <br>防伪功能材料与结构-全息打印机
-    </a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/2">
-        <img style="height: 150px;" src="/assets/img/team/l6.png">
-        <br>防伪票据智能鉴伪与识读技术及装备
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-1">
         <img style="height: 150px;" src="/assets/img/logo.png">
@@ -39,14 +39,14 @@ cover-img: /assets/img/title.jpg
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/3-3">
         <img style="height: 150px;" src="/assets/img/logo.png">
         <br>防伪功能材料与结构-自组装光学防伪材料
+    </a> -->
+    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/2">
+        <img style="height: 150px;" src="/assets/img/team/l6.png">
+        <br>防伪票据智能鉴伪与识读技术及装备
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/1">
         <img style="height: 150px;" src="/assets/img/logo.png">
         <br>证照防伪检测与智能鉴伪
-    </a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/2-2">
-        <img style="height: 150px;" src="/assets/img/logo.png">
-        <br>防伪检测与智能鉴伪-防伪数据库
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/6">
         <img style="height: 150px;" src="/assets/img/logo.png">
@@ -60,8 +60,5 @@ cover-img: /assets/img/title.jpg
         <img style="height: 150px;" src="/assets/img/logo.png">
         <br>生物特征识别与应用
     </a>
-    <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/7">
-        <img style="height: 150px;" src="/assets/img/logo.png">
-        <br>NEW.防伪用全息塑料及其加工技术
-    </a>
+    
 </div>
