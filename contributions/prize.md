@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: shuoye
- * @LastEditTime: 2023-03-14 18:03:58
+ * @LastEditTime: 2023-03-27 15:49:06
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -18,7 +18,7 @@ cover-img: /assets/img/title.jpg
 
 ## 获得奖项
 
-中心获省部级及以上奖励29项。其中国家科技进步一等奖和国家自然科学二等奖各一项，省部级一等奖6项。
+中心获省部级及以上奖励29项。其中国家科技进步一等奖和国家自然科学二等奖各1项，省部级一等奖6项。
 
 
 ### 国家级奖项
@@ -36,7 +36,7 @@ cover-img: /assets/img/title.jpg
 - <strong class="h_01">湖北省自然科学一等奖</strong> 高分子复合材料的界面设计与破坏行为
 - <strong class="h_01">湖北省技术发明一等奖</strong> 基于IP的宽带移动多媒体通信新技术2008
 - <strong class="h_01">湖北省科技进步一等奖</strong> 光学防伪及机读鉴伪关键技术研究与应用
-- <strong class="h_01">教育部高等学校科技成果技术发明一等奖</strong> 立体视频获取与重建技术及装置
+- <strong class="h_01">教育部高等学校科技成果技术发明二等奖</strong> 立体视频获取与重建技术及装置
 - <strong class="h_01">湖北省自然科学二等奖</strong> 形状特征提取及相似性度量方法研究
 - <strong class="h_01">重庆市自然科学二等奖</strong> 图像模式结构多尺度分析的基础理论与应用方法研究
 - <strong class="h_01">湖北省技术发明二等奖</strong> 衍射光栅加密及机读技
