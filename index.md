@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-27 00:15:51
+ * @LastEditTime: 2023-03-27 10:40:41
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -147,7 +147,7 @@ cover-img: /assets/img/title.jpg
         <br>防伪票据智能鉴伪与识读技术及装备
     </a>
     <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/industry/7">
-        <img style="height: 150px;" src="/assets/img/logo.png">
+        <img style="height: 150px;" src="/assets/img/industry/7/7-1.jpg">
         <br>防伪用全息塑料及其加工技术
     </a>
 </div>
