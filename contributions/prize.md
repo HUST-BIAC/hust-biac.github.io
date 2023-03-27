@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: shuoye
- * @LastEditTime: 2023-03-27 15:49:06
+ * @LastEditTime: 2023-03-27 16:22:30
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -35,6 +35,7 @@ cover-img: /assets/img/title.jpg
 - <strong class="h_01">湖北省自然科学一等奖</strong> 面向语义理解的复杂图像表征与计算理论及方法研究
 - <strong class="h_01">湖北省自然科学一等奖</strong> 高分子复合材料的界面设计与破坏行为
 - <strong class="h_01">湖北省技术发明一等奖</strong> 基于IP的宽带移动多媒体通信新技术2008
+- <strong class="h_01">湖北省技术发明一等奖（参与）</strong> 三元复杂空间对象可信身份、协同表达与行为理解研究
 - <strong class="h_01">湖北省科技进步一等奖</strong> 光学防伪及机读鉴伪关键技术研究与应用
 - <strong class="h_01">教育部高等学校科技成果技术发明二等奖</strong> 立体视频获取与重建技术及装置
 - <strong class="h_01">湖北省自然科学二等奖</strong> 形状特征提取及相似性度量方法研究
@@ -46,6 +47,8 @@ cover-img: /assets/img/title.jpg
 - <strong class="h_01">浙江省科技进步二等奖</strong> 基于金融云平台技术的现金流通全程管控系统关键技术及核心装备
 - <strong class="h_01">湖北省科技进步三等奖</strong> 用于癌症早期诊断的全自动细胞DNA定量分析技术研究
 - <strong class="h_01">湖北省科技进步三等奖</strong> 精确脱铝全息加密防伪技术
+
+三元复杂空间对象可信身份、协同表达与行为理解研究
 
 ### 行业奖项
 
