@@ -8,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: shuoye
- * @LastEditTime: 2023-03-27 09:14:47
+ * @LastEditTime: 2023-04-04 17:58:02
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -62,21 +62,21 @@ cover-img: /assets/img/title.jpg
         <p><strong class="h_02">副主任</strong>：<br>
             解孝林（华中科技大学）<br>
             陈俊龙 （华南理工大学）<br>
-            刘卓慧 （中国防伪行业协会会长）
+            刘卓慧 （中国防伪行业协会）
         </p>
     </div>
     <div>
         <p>
             <strong class="h_03">成员</strong>：<br>
-            朱锦涛（华中科技大学化学与化工学院 院长）<br>
-            邱才明（华中科技大学电子信息与通信学院 院长）<br>
-            陶大程（京东探索研究院院长）<br>
+            朱锦涛（华中科技大学化学与化工学院）<br>
+            邱才明（华中科技大学电子信息与通信学院）<br>
+            陶大程（京东探索研究院）<br>
             林江恒（公安部一所）<br>
-            王慎寒（国家移民局技术研究所 主任）<br>
+            王慎寒（国家移民局技术研究所）<br>
             石高军（公安部物证鉴定中心）<br>
-            黄晓义（中钞造币总公司中钞研究院 院长）<br>
-            鲁琴（武汉华工图像技术公司 总经理）<br>
-            万晓霞（武汉大学印刷与包装系原主任 ，中国印刷最高奖毕昇奖获得者）
+            黄晓义（中钞造币总公司中钞研究院）<br>         
+            鲁琴（武汉华工图像技术公司）<br>
+            万晓霞（武汉大学印刷与包装系，中国印刷最高奖毕昇奖获得者）
         </p>
     </div>
 </div>
@@ -94,7 +94,6 @@ cover-img: /assets/img/title.jpg
     </div>
     <div>
         <p><strong class="h_02">副主任</strong>：<br>
-            鲁琴 <br>
             张新坊 <br>
             白翔
         </p>
