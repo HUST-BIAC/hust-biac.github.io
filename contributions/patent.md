@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: pageWithLeftNav
+pageType: 4
 title: 研究成果
 subtitle: 专利
 cover-img: /assets/img/title.jpg

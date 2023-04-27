@@ -9,7 +9,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-13 22:57:04
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 14:13:55
+ * @LastEditTime: 2023-04-27 14:47:43
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -24,10 +24,10 @@ cover-img: /assets/img/title.jpg
 国家防伪工程技术研究中心于2005年3月由国家科技部批准依托华中科技大学组建，是专门从事核心防伪技术及其工程化的国家级研究开发机构和产业化基地。是我国安全防伪技术创新的源头和产业化示范基地，承担着提升我国安全防伪技术及其产品水平的重任。是中国防伪产学研联盟秘书长单位；中国防伪行业协会副理事长单位；中国防伪标准化委员会委员单位。在科技部组织的工程中心评估验收中两次获得优秀。在<strong class="h_01">信息安全和防伪行业</strong>，国家防伪工程技术研究中心<strong class="h_02">代表国家竞争力，具备国际竞争力</strong>。
 
 <div style="text-align: center;">
-    <img style="height: 80px;" src="/assets/img/index/1.png">
-    <img style="height: 80px;" src="/assets/img/index/2.jpg">
-    <img style="height: 80px;" src="/assets/img/index/3.png">
-    <img style="height: 80px;" src="/assets/img/index/4.png">
+    <img style="width: 24%;" src="/assets/img/index/1.png">
+    <img style="width: 24%;" src="/assets/img/index/2.jpg">
+    <img style="width: 24%;" src="/assets/img/index/3.png">
+    <img style="width: 24%;" src="/assets/img/index/4.png">
 </div>
 
 工程中心学科依托华中科技大学电子信息与通信学院、化学化工学院，按照“<strong class="h_01">一个研发中心</strong>，<strong class="h_01">三个产业化基地（两家上市公司）</strong>，<strong class="h_01">一个国际合作中心</strong>，<strong class="h_01">一个分中心</strong>，<strong class="h_01">多个联合实验室</strong>（校外企业共建）的组织结构模式，围绕证件牌照、金融票卡、商品包装、产品溯源等防伪行业的国家重大需求，在全息防伪、鉴伪与机读识别、电子溯源、防伪材料与标识、加密技术与方案、防伪工艺与设备等领域展开技术研究和产品开发。中心拥有国家杰青、千人计划、万人计划等国家高层次人才4人，国家优青、海外优青、青年长江等青年人才8人，特聘兼职教授7人。近年来共承担科研项目250余项，其中国家级项目76项，获授权专利328项，软件著作权37项，主持与参与制定的国家与行业标准45项，发表论文500余篇，SCI收录论文405篇。中心获批以来获省部级及以上奖励29项。其中国家科技进步一等奖（参与）和国家自然科学二等奖各一项，省部级一等奖6项。连续四次获得“国家金卡工程金蚂蚁奖”，获得日内瓦国际发明银奖一项。取得一批具有国内领先水平的研发成果。通过与企业合作，实现了成果大规模产业化，并在市场上得到广泛应用。其中全息防伪、防伪票据鉴伪与识读、票据打印与扫描、防伪证照识读等多个产品性能国际领先。IC智能卡、全息二维码等多个产品在同行业市场占有率居全国第一。

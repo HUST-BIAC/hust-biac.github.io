@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: pageWithLeftNav
+pageType: 3
 title: 科学研究
 subtitle: 科研项目
 cover-img: /assets/img/title.jpg
@@ -7,8 +8,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: shuoye
- * @LastEditTime: 2023-04-04 17:53:30
+ * @LastEditors: Conghao Wong
+ * @LastEditTime: 2023-04-27 15:05:40
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.

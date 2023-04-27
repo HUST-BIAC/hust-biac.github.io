@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: pageWithLeftNav
+pageType: 6
 title: 产业化结果与对外合作
 subtitle: 服务合作机构
 cover-img: /assets/img/title.jpg

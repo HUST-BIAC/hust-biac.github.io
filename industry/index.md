@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: pageWithLeftNav
+pageType: 5
 title: 代表性工程化成果
 cover-img: /assets/img/title.jpg
 ---
@@ -7,7 +8,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-14 11:04:08
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-27 11:04:09
+ * @LastEditTime: 2023-04-27 15:03:37
  * @Description: file contentage
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.

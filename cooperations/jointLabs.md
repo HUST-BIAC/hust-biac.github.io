@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: pageWithLeftNav
+pageType: 6
 title: 产业化结果与对外合作
 subtitle: 校企共建联合实验室
 cover-img: /assets/img/title.jpg
@@ -7,8 +8,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-13 23:38:15
- * @LastEditors: shuoye
- * @LastEditTime: 2023-04-04 18:00:12
+ * @LastEditors: Conghao Wong
+ * @LastEditTime: 2023-04-27 15:08:36
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.

@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: pageWithLeftNav
+pageType: 2
 title: 研究队伍
 subtitle: 队伍概况
 cover-img: /assets/img/title.jpg
