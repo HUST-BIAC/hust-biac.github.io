@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-03-27 10:40:41
+ * @LastEditTime: 2023-04-27 11:10:07
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -33,7 +33,7 @@ cover-img: /assets/img/title.jpg
         <h2>新闻快讯</h2>
     </div>
     <div style="text-align: right;">
-        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/news/index">更多新闻 ></a>
+        <a class="btn btn-info btn-lg get-started-btn btn_dark" href="/news/index">更多 ></a>
     </div>
 </div>
 
