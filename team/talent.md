@@ -9,7 +9,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 19:11:22
+ * @LastEditTime: 2023-04-27 19:47:16
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -135,9 +135,7 @@ cover-img: /assets/img/title.jpg
     </div>
     <div>
         <a href="http://bmal.hust.edu.cn/info/1005/1091.htm">尤新革</a>
-        ，博士、二级教授、博士生导师。2004年博士毕业于香港浸会大学。现为国际电子电气工程协会高级会员，先后担任国际电子电气工程协会系统、人与机器协会模式识别技术委员会副主席，国际权威刊物IEEE Transactions on
-        Cybernetics、IEEE Transtions on Systems, Man, and Cybernetics: Systems 编委Neurocomputing
-        等国际刊物客座主编，中国计算机学会视觉专委会、中国人工智能协会模式识别专委会等学会全国专委委员，中国防伪行业协会理事、中国防伪包装与产品追溯委员会副主任委员。现任国家防伪工程技术研究中心主任，入选教育部新世纪优秀人才支持计划，爱思唯尔中国高被引学者。
+        ，博士、二级教授、博士生导师，教育部新世纪人才支持计划入选者，爱思唯尔中国高被引学者。2004年博士毕业于香港浸会大学。现任国家防伪工程技术研究中心主任。国际电子电气工程协会高级会员，先后担任国际电子电气工程协会系统、人与机器协会模式识别技术委员会副主席，国际权威刊物IEEE Transactions on Cybernetics、IEEE Transtions on Systems, Man, and Cybernetics: Systems 编委及Neurocomputing 等国际刊物客座主编，是中国计算机学会视觉专委会、中国人工智能协会模式识别专委会等学会全国专委委员，中国防伪行业协会理事、中国防伪包装与产品追溯委员会副主任委员。长期从事信息与信号处理、小波分析及其应用、生物特征识别与智能防伪、模式识别、计算机视觉与机器学习等方面研究。近年来主持完成国家重点研发项目、国家科技支撑计划等项目及课题50余项；牵头获湖北省科技进步一等奖（2019年）、湖北省自然科学一等奖（2022年）等省部级科技奖励6项；在TPAMI及NeurIPS、CVPR等本领域权威国际刊物及国际会议上发表论文200余篇， Google他引6000余次。获国家授权专利40余项，国际专利一项。参与制定国家及行业标准多项。主持研发防伪票据及证照扫描识读与机读鉴伪等多项核心技术并实现规模化产业应用，开发点验钞机、清分机、票据鉴伪仪、证照鉴伪识读等系列产品服务包括中国银行、工商银行等60余家商业银行和大兴机场、出入境口岸等国家重大工程，并出口到美国、欧盟、印度等国家和地区。
     </div>
 
     <div>
