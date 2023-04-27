@@ -9,7 +9,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 15:07:32
+ * @LastEditTime: 2023-04-27 19:30:53
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -31,6 +31,8 @@ cover-img: /assets/img/title.jpg
 
 ---
 
+- 防伪溯源编码技术条件
+- 人民币鉴别仪通用技术条件
 - 防伪标识产品通用技术条件
 - 信息技术 基于射频的移动支付
 - 防伪技术产品通用技术条件

@@ -9,7 +9,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-11 16:50:45
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 15:04:26
+ * @LastEditTime: 2023-04-27 19:11:22
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -39,15 +39,6 @@ cover-img: /assets/img/title.jpg
     </div>
 
     <div>
-        <img src="/assets/img/team/t5.jpg">
-    </div>
-    <div>
-        <a href="http://chem.hust.edu.cn/info/1172/3079.htm">朱锦涛</a>
-        ，教授，国家杰出青年科学基金获得者，华中科技大学化学与化工学院院长。河南省平顶山人。2005年毕业于中国科学院长春应用化学研究所。入选国家“万人计划”科技创新领军人才、科技部中青年科技创新领军人才、英国皇家化学会会士，获中国化学会青年化学奖。现任华中科技大学学术委员会委员、教学指导委员会委员，材料成形与模具技术国家重点实验室副主任，能量转换与存储材料化学教育部重点实验室常务副主任，Macromolecular
-        Research杂志副主编、中国化学会理事、中国高分子学科委员会委员。主要从事聚合物有序结构材料的构筑及其在安全防伪、光电存储等领域的应用研究。
-    </div>
-
-    <div>
         <img src="/assets/img/team/t13.jpg">
     </div>
     <div>
@@ -57,6 +48,15 @@ cover-img: /assets/img/title.jpg
         Networked Sensing and Big Data》、《Cognitive Radio Communication and Networking: Principles and Practice》、《Smart
         Grid and Big Data： Theory and Practice》等三部专著。最近五年，在IEEE Trans. Wireless
         Communication等期刊及会议上发表论文60多篇，于2011年荣获ICC最佳论文奖。
+    </div>
+
+    <div>
+        <img src="/assets/img/team/t5.jpg">
+    </div>
+    <div>
+        <a href="http://chem.hust.edu.cn/info/1172/3079.htm">朱锦涛</a>
+        ，教授，国家杰出青年科学基金获得者，华中科技大学化学与化工学院院长。河南省平顶山人。2005年毕业于中国科学院长春应用化学研究所。入选国家“万人计划”科技创新领军人才、科技部中青年科技创新领军人才、英国皇家化学会会士，获中国化学会青年化学奖。现任华中科技大学学术委员会委员、教学指导委员会委员，材料成形与模具技术国家重点实验室副主任，能量转换与存储材料化学教育部重点实验室常务副主任，Macromolecular
+        Research杂志副主编、中国化学会理事、中国高分子学科委员会委员。主要从事聚合物有序结构材料的构筑及其在安全防伪、光电存储等领域的应用研究。
     </div>
 
     <div>
@@ -71,6 +71,24 @@ cover-img: /assets/img/title.jpg
         青年学者奖等国际学术荣誉，以第1完成人获湖北省自然科学奖二等奖(2017)和中国图象图形学学会自然科学奖一等奖(2021)。
     </div>
 
+    <div>
+        <img src="/assets/img/team/t10.png">
+    </div>
+    <div>
+        杨欣，教授、博导，国家优秀青年基金获得者，博士毕业于加州大学圣塔芭芭拉分校，主要从事计算机视觉和医学影像分析领域研究工作，已在国际权威期刊及学术会议上发表学术论文90余篇，授权美国/中国发明专利6项，出版英文书籍章节2部；获得中国图象图形学会石青云女科学家奖；担任SCI期刊IEEE-TMI及Multimedia
+        System编委及ACM MM2018和MICCAI2019-2021领域主席；现任CSIG青工委副秘书长，CCF多媒体专委会副秘书长等。
+    </div>
+
+    <div>
+        <img src="/assets/img/team/t11.png">
+    </div>
+    <div>
+        <a href="http://faculty.hust.edu.cn/xwang/zh_CN/index.htm">王兴刚</a>
+        ，教授，博导，国家“四青”人才计划入选者。主要研究方向为计算机视觉和深度学习，研究工作见：https://xinggangw.info。分别于2009年和2014年在华中科技大学获得学士和博士学位，博士期间在美国天普大学、加州大学洛杉矶分校（UCLA）访问研究。在IEEE
+        TPAMI、CVPR、ICML等顶级期刊会议发表学术论文50余篇。谷歌学术引用次数超过1万次，单篇论文最高引用1000余次。担任CVPR 2022领域主席，Pattern Recognition (IF
+        7.196)、Image and Vision Computing (IF 3.103), Electronics (IF 2.412)期刊编委。入选中国科协“青年托举人才工程”、
+        获吴文俊人工智能优秀青年奖、“微软学者”奖（全亚洲10名获奖者）、CCF-腾讯犀牛鸟科研基金优秀奖、华为优秀技术合作项目奖、湖北省自然科学二等奖（4/4），主持国家自然科学基金项目3项。
+    </div>
 
 
     <div>
@@ -81,6 +99,14 @@ cover-img: /assets/img/title.jpg
         ，教授，国家优秀青年科学基金获得者。甘肃白银人。2001年、2004年和2009年分别获得理学学士、理学硕士和工学博士学位，2009年在法国国家科学研究中心从事博士后课题研究，2011年入职华中科技大学。主要从事结构可控聚合物的设计、合成及在安全防伪领域的应用研究。在J
         Am Chem Soc, Angew Chem Int Ed, ACS Nano,
         Macromolecules等期刊发表SCI论文110余篇，获授权中国发明专利45项。2008年获国家优秀自费留学生奖学金，2009年获玛丽居里博士后奖学金，2012年获湖北省楚天学者“楚天学子”称号，2014年获华中科技大学“学术新人奖”，2014年湖北省高校青年教师教学竞赛三等奖，2016年获国家优秀青年科学基金，2018年获湖北省杰出青年基金，2019年获华中科技大学“十佳青年教工”，2021年获评华中科技大学“三育人积极分子”。
+    </div>
+
+    <div>
+        <img src="/assets/img/team/t14.png">
+    </div>
+    <div>
+        <a href="http://eic.hust.edu.cn/professor/wankai/">万凯</a>
+        ，博士、教授、博士生导师，国家级青年人才，华中科技大学东湖学者，海外优青，湖北省百人计划入选者，获华中科技大学学术新人奖，从事信息论与编码领域研究，发表论文50余篇，书章节一章，信息论旗舰IEEE TIT 9篇。
     </div>
 
     <div>
@@ -104,36 +130,6 @@ cover-img: /assets/img/title.jpg
         Mater等期刊发表论文50余篇，SCI他引超4000次。主持国家自然科学基金委优秀青年科学基金项目、青年项目、面上项目、深圳市科技计划项目、华中科技大学“新型冠状病毒肺炎应急科技攻关专项”项目等。2020年获湖北省化学化工学会青年创新奖。
     </div>
 
-
-
-
-    <div>
-        <img src="/assets/img/team/t10.png">
-    </div>
-    <div>
-        杨欣，教授、博导，国家优秀青年基金获得者，博士毕业于加州大学圣塔芭芭拉分校，主要从事计算机视觉和医学影像分析领域研究工作，已在国际权威期刊及学术会议上发表学术论文90余篇，授权美国/中国发明专利6项，出版英文书籍章节2部；获得中国图象图形学会石青云女科学家奖；担任SCI期刊IEEE-TMI及Multimedia
-        System编委及ACM MM2018和MICCAI2019-2021领域主席；现任CSIG青工委副秘书长，CCF多媒体专委会副秘书长等。
-    </div>
-
-    <div>
-        <img src="/assets/img/team/t11.png">
-    </div>
-    <div>
-        <a href="http://faculty.hust.edu.cn/xwang/zh_CN/index.htm">王兴刚</a>
-        ，教授，博导，国家“四青”人才计划入选者。主要研究方向为计算机视觉和深度学习，研究工作见：https://xinggangw.info。分别于2009年和2014年在华中科技大学获得学士和博士学位，博士期间在美国天普大学、加州大学洛杉矶分校（UCLA）访问研究。在IEEE
-        TPAMI、CVPR、ICML等顶级期刊会议发表学术论文50余篇。谷歌学术引用次数超过1万次，单篇论文最高引用1000余次。担任CVPR 2022领域主席，Pattern Recognition (IF
-        7.196)、Image and Vision Computing (IF 3.103), Electronics (IF 2.412)期刊编委。入选中国科协“青年托举人才工程”、
-        获吴文俊人工智能优秀青年奖、“微软学者”奖（全亚洲10名获奖者）、CCF-腾讯犀牛鸟科研基金优秀奖、华为优秀技术合作项目奖、湖北省自然科学二等奖（4/4），主持国家自然科学基金项目3项。
-    </div>
-
-    <div>
-        <img src="/assets/img/team/t2.jpg">
-    </div>
-    <div>
-        <a href="http://faculty.hust.edu.cn/liaoyonggui/zh_CN/index.htm">廖永贵</a>
-        ，教授，教育部新世纪人才支持计划入选者。江西赣州人。1998年、2001年和2005年分别获得南昌大学、中国科学院福建物质结构研究所和中国科学院长春应用化学研究所学士、硕士和博士学位，在日本产业综合研究所从事两年博士后研究，2007年起任职于华中科技大学。主要从事功能高分子/超分子材料、手性液晶材料及其在安全防伪领域的研究。已发表SCI论文110余篇，获授权中国发明专利30多件。主持了国家自然科学基金项目4项，获2013年吉林省自然科学一等奖（排名第三）。
-    </div>
-
     <div>
         <img src="/assets/img/team/t12.jpg">
     </div>
@@ -145,11 +141,11 @@ cover-img: /assets/img/title.jpg
     </div>
 
     <div>
-        <img src="/assets/img/team/t14.png">
+        <img src="/assets/img/team/t2.jpg">
     </div>
     <div>
-        <a href="http://eic.hust.edu.cn/professor/wankai/">万凯</a>
-        ，博士、教授、博士生导师，国家级青年人才，华中科技大学东湖学者，海外优青，湖北省百人计划入选者，获华中科技大学学术新人奖，从事信息论与编码领域研究，发表论文50余篇，书章节一章，信息论旗舰IEEE TIT 9篇。
+        <a href="http://faculty.hust.edu.cn/liaoyonggui/zh_CN/index.htm">廖永贵</a>
+        ，教授，教育部新世纪人才支持计划入选者。江西赣州人。1998年、2001年和2005年分别获得南昌大学、中国科学院福建物质结构研究所和中国科学院长春应用化学研究所学士、硕士和博士学位，在日本产业综合研究所从事两年博士后研究，2007年起任职于华中科技大学。主要从事功能高分子/超分子材料、手性液晶材料及其在安全防伪领域的研究。已发表SCI论文110余篇，获授权中国发明专利30多件。主持了国家自然科学基金项目4项，获2013年吉林省自然科学一等奖（排名第三）。
     </div>
 
     <div>

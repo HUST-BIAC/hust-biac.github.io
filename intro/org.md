@@ -9,7 +9,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 14:17:12
+ * @LastEditTime: 2023-04-27 18:56:58
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -71,15 +71,15 @@ cover-img: /assets/img/title.jpg
     <div>
         <p>
             <strong class="h_03">成员</strong>：<br>
-            朱锦涛（华中科技大学化学与化工学院）<br>
-            邱才明（华中科技大学电子信息与通信学院）<br>
-            陶大程（京东探索研究院）<br>
-            林江恒（公安部一所）<br>
-            王慎寒（国家移民局技术研究所）<br>
-            石高军（公安部物证鉴定中心）<br>
-            黄晓义（中钞造币总公司中钞研究院）<br>         
-            鲁琴（武汉华工图像技术公司）<br>
-            万晓霞（武汉大学印刷与包装系，中国印刷最高奖毕昇奖获得者）
+            陶大程（京东探索研究院） <br>
+            林江恒（公安部一所） <br>
+            王慎寒（国家移民局技术研究所） <br>
+            石高军（公安部物证鉴定中心） <br>
+            黄晓义（中钞造币总公司中钞研究院） <br>
+            吴志强（北京大学） <br>
+            万晓霞（武汉大学） <br>
+            朱锦涛（华中科技大学） <br>
+            邱才明（华中科技大学） <br>
         </p>
     </div>
 </div>
@@ -97,8 +97,9 @@ cover-img: /assets/img/title.jpg
     </div>
     <div>
         <p><strong class="h_02">副主任</strong>：<br>
-            张新坊 <br>
-            白翔
+            杨兴国 <br>
+            白翔 <br>
+            张新坊（兼）
         </p>
     </div>
 </div>

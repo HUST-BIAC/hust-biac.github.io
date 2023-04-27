@@ -9,7 +9,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 15:06:02
+ * @LastEditTime: 2023-04-27 19:21:47
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -60,12 +60,13 @@ cover-img: /assets/img/title.jpg
 
 部分代表性论文：
 
-- Hyperspectral Image Classification via Spatial Window-Based Multiview Intact Feature Learning.  IEEE Trans.  Geosci.  Remote.  Sens. 59(3): 2294-2306 (2021)
-- Modal-Regression-Based Structured Low-Rank Matrix Recovery for Multiview Learning.  IEEE Trans.  Neural Networks Learn.  Syst. 32(3): 1204-1216 (2021)
-- Multiview Hybrid Embedding: A Divide-and-Conquer Approach.  IEEE Trans.  Cybernetics. 50(8): 3640-3653 (2020)
-- Multi-view Common Component Discriminant Analysis for Cross-view Classification. Pattern Recognition , 92:37-51, 2019. 
-- Multi-view manifold learning with locality alignment. Pattern Recognition 78:154-166, 2018.
+- ***Hyperspectral Image Classification via Spatial Window-Based Multiview Intact Feature Learning.***  IEEE Trans.  Geosci.  Remote.  Sens. 59(3): 2294-2306 (2021)
+- ***Modal-Regression-Based Structured Low-Rank Matrix Recovery for Multiview Learning.***  IEEE Trans.  Neural Networks Learn.  Syst. 32(3): 1204-1216 (2021)
+- ***Multiview Hybrid Embedding: A Divide-and-Conquer Approach.***  IEEE Trans.  Cybernetics. 50(8): 3640-3653 (2020)
+- ***Multi-view Common Component Discriminant Analysis for Cross-view Classification.*** Pattern Recognition , 92:37-51, 2019. 
+- ***Multi-view manifold learning with locality alignment.*** Pattern Recognition 78:154-166, 2018.
 - ...
+
 #### 图像细粒度分析与识别
 
 ---
@@ -98,11 +99,11 @@ cover-img: /assets/img/title.jpg
 
 部分代表性论文：
 
-- TransZero++: Cross Attribute-Guided Transformer for Zero- Shot Learning. TPAMI, 2022.
-- HSVA: Hierarchical Semantic-Visual Adaptation for Zero-Shot Learning. NeurIPS, 2021.
-- MSDN: Mutually Semantic Distillation Network for Zero- Shot Learning. CVPR, 2022.
-- FREE: Feature Refinement for Generalized Zero-shot Learning. ICCV, 2021
-- GNDAN: Graph Navigated Dual Attention Network for Zero-Shot Learning. TNNLS, 2022.
+- ***TransZero++: Cross Attribute-Guided Transformer for Zero- Shot Learning.*** TPAMI, 2022.
+- ***HSVA: Hierarchical Semantic-Visual Adaptation for Zero-Shot Learning.*** NeurIPS, 2021.
+- ***MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning.*** CVPR, 2022.
+- ***FREE: Feature Refinement for Generalized Zero-shot Learning.*** ICCV, 2021
+- ***GNDAN: Graph Navigated Dual Attention Network for Zero-Shot Learning.*** TNNLS, 2022.
 - ...
 
 #### 多智能体轨迹预测
@@ -121,8 +122,8 @@ cover-img: /assets/img/title.jpg
 
 部分代表性论文和专利：
 
-- CSCNet: Contextual semantic consistency network for trajectory prediction in crowded spaces. Pattern Recognition 126 (2022): 108552.
-- View Vertically: A hierarchical network for trajectory prediction via fourier spectrums. ECCV 2022: 682-700.
+- ***CSCNet: Contextual semantic consistency network for trajectory prediction in crowded spaces.*** Pattern Recognition 126 (2022): 108552.
+- ***View Vertically: A hierarchical network for trajectory prediction via fourier spectrums.*** ECCV 2022: 682-700.
 - 一种频域视角下智能体轨迹预测方法、系统、设备及介质
 - 一种基于语义一致性的轨迹预测方法及装置
 - ...
