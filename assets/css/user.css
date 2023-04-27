@@ -2,7 +2,7 @@
  * @Author: Conghao Wong
  * @Date: 2023-03-03 16:11:49
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 17:51:46
+ * @LastEditTime: 2023-04-27 20:58:08
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -113,13 +113,11 @@
     align-items: end;
 }
 
-.t_grid_industry {
-    display: grid;
-    grid-template-columns: 32% 32% 32%;
-    grid-gap: 15px 2%;
+.t_button_industry {
+    background-color: #FFFFFFFF;
 }
 
-.left_nav {
+.left_nav .news_date {
 
 }
 
@@ -127,20 +125,34 @@
     
 }
 
+/* >= 1200 */
 @media (min-width: 1200px){
     .title_logo {
         height: 10rem;
     }
 }
 
+/* < 1200 */
 @media (max-width: 1199px){
     .title_logo {
         width: 80%;
     }
 }
 
-@media (max-width: 1000px){
+/* >= 1000 */
+@media (min-width: 1000px){
+    .t_button_industry {
+        width: 100%;
+    }
+}
+
+/* < 1000 */
+@media (max-width: 999px){
     .left_nav {
+        display: none;
+    }
+
+    .news_date {
         display: none;
     }
 }

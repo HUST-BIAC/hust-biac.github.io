@@ -9,7 +9,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 18:56:58
+ * @LastEditTime: 2023-04-27 21:05:52
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -56,8 +56,8 @@ cover-img: /assets/img/title.jpg
 ### 技术委员会
 ---
 
-<div class="t_grid">
-    <div>
+<div class="row">
+    <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
         <p>
             <strong class="h_01">主任</strong>：<br>
             戴琼海（清华大学）
@@ -68,7 +68,7 @@ cover-img: /assets/img/title.jpg
             刘卓慧 （中国防伪行业协会）
         </p>
     </div>
-    <div>
+    <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
         <p>
             <strong class="h_03">成员</strong>：<br>
             陶大程（京东探索研究院） <br>
@@ -87,15 +87,15 @@ cover-img: /assets/img/title.jpg
 ### 行政组织
 ---
 
-<div class="t_grid">
-    <div>
+<div class="row">
+    <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
         <p>
             <strong class="h_01">主任</strong>：<br>
             尤新革
         </p>
 
     </div>
-    <div>
+    <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
         <p><strong class="h_02">副主任</strong>：<br>
             杨兴国 <br>
             白翔 <br>
