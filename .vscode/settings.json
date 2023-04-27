@@ -30,5 +30,9 @@
         "**/*.sass",
         "**/*.less",
         "**/*.styl"
-    ]
+    ],
+    "emmet.includeLanguages":{
+        "jekyll": "html",
+        "scss": "css"
+    }
 }

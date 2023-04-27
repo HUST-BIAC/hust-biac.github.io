@@ -1,0 +1,114 @@
+---
+common-css:
+- "/assets/css/bootstrap-social.css"
+- "/assets/css/beautifuljekyll.css"
+common-ext-css:
+- "/assets/css/bootstrap.min.css"
+- "/assets/css/all.min.css"
+common-ext-js:
+- "/assets/js/jquery-3.5.1.slim.min.js"
+- "/assets/js/popper.min.js"
+- "/assets/js/bootstrap.min.js"
+common-js:
+- "/assets/js/beautifuljekyll.js"
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.language | default: site.language | default: 'en' }}">
+<!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
+{% include head.html %}
+
+<body>
+
+    {% include nav.html %}
+    {% include header.html type="page" %}
+
+    <div class="container-fluid" role="main">
+        <div class="row">
+            <div class="col-xl-2 offset-xl-1 col-lg-2 offset-lg-1"
+                style="border-right-style: solid; border-right-color: #e5e5e5; border-right-width: 0.5mm;">
+
+                <div id="TABLE_OF_CONTENTS" style="
+                    position: sticky;
+                    top: 100px;
+                    border: 8px solid;
+                    border-radius: 10px;
+                    border-color: #EBEBEB;
+                    background-color: #EBEBEB;
+                ">
+
+                    {% assign iindex = page.pageType %}
+                    {% assign links = site.navbar-links %}
+                    {% assign count = 0 %}
+
+                    {% for link in links %}
+
+                    {% assign key = link[0] %}
+                    {% assign value = link[1] %}
+
+                    {% if count == iindex %}
+
+                    {%- if value.first %}
+                    <a class="btn btn-info btn-lg btn_dark" style="
+                        width: 100%; 
+                        text-align: center; 
+                        color: #FFFFFFFF; 
+                        background-image: url(/assets/img/title.jpg);
+                        background-repeat: no-repeat;
+                        background-size: 100% auto;
+                    "><h2>{{key}}</h2><p></p></a><h4></h4>
+
+                    <div>
+                        {%- for childlink in value -%}
+                        {%- for linkparts in childlink %}
+                        
+                        {% assign c_url = linkparts[1] | append: "/"%}
+                        {% if c_url == page.url %}
+                        <a style="width: 100%;" class="btn btn-info btn-lg btn_selected" href="{{ linkparts[1] | relative_url }}">{{
+                            linkparts[0] }}</a>
+                        {% else %}
+                        <a style="width: 100%;" class="btn btn-info btn-lg btn_dark" href="{{ linkparts[1] | relative_url }}">{{
+                            linkparts[0] }}</a>
+                        {% endif %}
+
+                        {%- endfor -%}
+                        {%- endfor %}
+                    </div>
+
+                    {%- endif -%}
+                    {% endif %}
+                    {% assign count = count | plus: 1 %}
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="col-xl-8 offset-xl-0 col-lg-8 offset-lg-0">
+                {% if page.before-content %}
+                <div class="before-content">
+                    {% for file in page.before-content %}
+                    {% include {{ file }} %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+
+                {{ content }}
+
+                {% if page.after-content %}
+                <div class="after-content">
+                    {% for file in page.after-content %}
+                    {% include {{ file }} %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+
+            </div>
+        </div>
+    </div>
+
+
+    {% include footer.html %}
+
+    {% include footer-scripts.html %}
+
+</body>
+
+</html>

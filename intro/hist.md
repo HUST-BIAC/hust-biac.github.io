@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: pageWithLeftNav
+pageType: 1
 title: 中心概况
 subtitle: 历史沿革
 cover-img: /assets/img/title.jpg
@@ -17,6 +18,8 @@ cover-img: /assets/img/title.jpg
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
 ## 历史沿革
+
+---
 
 <!-- 最新的在下面，放一些图片，横向放一排 -->
 - <strong class="h_01">2003年</strong> 湖北省防伪工程技术研究中心成立并运行

@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: pageWithLeftNav
+pageType: 1
 title: 中心概况
 subtitle: 组织架构
 cover-img: /assets/img/title.jpg
@@ -7,8 +8,8 @@ cover-img: /assets/img/title.jpg
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
- * @LastEditors: shuoye
- * @LastEditTime: 2023-04-04 17:58:02
+ * @LastEditors: Conghao Wong
+ * @LastEditTime: 2023-04-27 14:17:12
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -17,6 +18,8 @@ cover-img: /assets/img/title.jpg
 <link rel="stylesheet" type="text/css" href="/assets/css/user.css">
 
 ## 组织架构
+
+---
 
 <style>
     .t_head {

@@ -146,7 +146,16 @@ footer-hover-col: "#59C8FF"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
+# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+#mobile-theme-col: "#59C8FF"
 
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+site-css:
+ - "/assets/css/user.css"
+
+# If you have common JavaScript files that should be included in every page, list them here
+#site-js:
+#  - "/assets/js/custom-script.js"
 
 
 
