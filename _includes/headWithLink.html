@@ -117,6 +117,8 @@
   <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
   {% endif %}
 
+  <script src="/assets/js/jquery.min.js"></script>
+
   {% if page.head-extra %}
     {% for file in page.head-extra %}
       {% include {{ file }} %}
