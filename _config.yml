@@ -128,8 +128,10 @@ navbar-var-length: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#0D3B7F"
+navbar-col-dropDown: "#EBEBEBA0"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#0D3B7F"
+navbar-text-col-dropDown: "#000000"
+navbar-border-col: "#EBEBEB"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"

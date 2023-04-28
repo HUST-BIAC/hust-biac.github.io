@@ -17,6 +17,15 @@ var BeautifulJekyllJS = {
         }
     });
 
+    //
+    $(window).scroll(function() {
+      if ($(".navbar").offset().top > 50) {
+        $(".navbar-nav").removeClass("navbar-nav-background-short");
+      } else {
+        $(".navbar-nav").addClass("navbar-nav-background-short");
+      }
+    });
+
     // On mobile, hide the avatar when expanding the navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
       $(".navbar").addClass("top-nav-expanded");
