@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-04-27 21:00:57
+ * @LastEditTime: 2023-05-06 13:32:40
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -48,7 +48,7 @@ cover-img: /assets/img/title.jpg
                 [{{ post.date | date: date_format }}]
             </div>
             <div>
-                <a href="{{ post.url | absolute_url }}">
+                <a href="{{ post.url | relative_url }}">
                     {{ post.title | strip_html }}
                 </a>
             </div>
@@ -106,7 +106,7 @@ cover-img: /assets/img/title.jpg
                         [{{ post.date | date: date_format }}]
                     </div>
                     <div>
-                        <a href="{{ post.url | absolute_url }}">
+                        <a href="{{ post.url | relative_url }}">
                             {{ post.title | strip_html }}
                         </a>
                     </div>

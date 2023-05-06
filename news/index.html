@@ -24,14 +24,14 @@ cover-img: /assets/img/title.jpg
       {% if site.feed_show_excerpt == false %}
       {% if thumbnail != "" %}
       <div class="post-image post-image-normal">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        <a href="{{ post.url | relative_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | relative_url }}" alt="Post thumbnail">
         </a>
       </div>
       {% endif %}
       {% endif %}
 
-      <a href="{{ post.url | absolute_url }}">
+      <a href="{{ post.url | relative_url }}">
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
         {% if post.subtitle %}
@@ -48,8 +48,8 @@ cover-img: /assets/img/title.jpg
 
       {% if thumbnail != "" %}
       <div class="post-image post-image-small">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        <a href="{{ post.url | relative_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | relative_url }}" alt="Post thumbnail">
         </a>
       </div>
       {% endif %}
@@ -57,8 +57,8 @@ cover-img: /assets/img/title.jpg
       {% unless site.feed_show_excerpt == false %}
       {% if thumbnail != "" %}
       <div class="post-image post-image-short">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        <a href="{{ post.url | relative_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | relative_url }}" alt="Post thumbnail">
         </a>
       </div>
       {% endif %}
@@ -68,7 +68,7 @@ cover-img: /assets/img/title.jpg
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
       {% endunless %}
@@ -80,7 +80,7 @@ cover-img: /assets/img/title.jpg
         <ul class="d-inline list-inline" role="list">
           {% for tag in post.tags %}
           <li class="list-inline-item">
-            <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           </li>
           {% endfor %}
         </ul>
@@ -96,12 +96,12 @@ cover-img: /assets/img/title.jpg
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; 上一页</a>
+    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&larr; 上一页</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">下一页 &rarr;</a>
+    <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">下一页 &rarr;</a>
   </li>
   {% endif %}
 </ul>
