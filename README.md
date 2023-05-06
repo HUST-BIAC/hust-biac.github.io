@@ -111,8 +111,9 @@ git pull
 
 #### 等待生成hust-biac.github.io网站
 
-上传结束后并等待`github actions`运行完毕（一般需要大约五分钟），修改/新建的页面将会出现在 hust-biac.github.io 。
-之后，可通过多种方式，如Chrome浏览器中按下`F12`，或Safari中在`开发`菜单中选择`显示页面源文件`，来把生成的`html`文件下载下来。
+上传结束后并等待`github actions`运行完毕（一般需要大约五分钟），修改/新建的页面将会出现在 https://hust-biac.github.io 。
+~~之后，可通过多种方式，如Chrome浏览器中按下`F12`，或Safari中在`开发`菜单中选择`显示页面源文件`，来把生成的`html`文件下载下来。~~
+请使用`SiteSucker`等类似工具来把网页 https://hust-biac.github.io 整体爬取下来，否则可能出现路径问题！
 **请注意要把修改涉及到的所有html文件都下载下来**，比如有时候改了一页，其他页的链接变化时，要把所有变化的html页面下载下来。
 
 #### 上传到系统
