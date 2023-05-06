@@ -7,7 +7,7 @@ cover-img: /assets/img/title.jpg
  * @Author: Conghao Wong
  * @Date: 2023-03-08 19:13:03
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-05-06 13:32:40
+ * @LastEditTime: 2023-05-06 14:13:18
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -148,4 +148,8 @@ cover-img: /assets/img/title.jpg
         <img style="height: 150px;" src="/assets/img/industry/7/7-1.jpg">
         <br>防伪用全息塑料及其加工技术
     </a>
+</div>
+
+<div style="text-align: right; width: 100%">
+<a href="http://nacerc.hust.edu.cn/index_old.html">回到旧版</a>
 </div>
