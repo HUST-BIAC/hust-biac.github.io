@@ -1,8 +1,8 @@
 <!--
  * @Author: Conghao Wong
  * @Date: 2023-03-21 18:12:30
- * @LastEditors: Conghao Wong
- * @LastEditTime: 2023-05-06 12:40:53
+ * @LastEditors: shuoye
+ * @LastEditTime: 2023-05-06 17:16:39
  * @Description: file content
  * @Github: https://cocoon2wong.github.io
  * Copyright 2023 Conghao Wong, All Rights Reserved.
@@ -114,11 +114,17 @@ git pull
 上传结束后并等待`github actions`运行完毕（一般需要大约五分钟），修改/新建的页面将会出现在 https://hust-biac.github.io 。
 ~~之后，可通过多种方式，如Chrome浏览器中按下`F12`，或Safari中在`开发`菜单中选择`显示页面源文件`，来把生成的`html`文件下载下来。~~
 请使用`SiteSucker`等类似工具来把网页 https://hust-biac.github.io 整体爬取下来，否则可能出现路径问题！
+
+windows环境请在网页 http://www.httrack.com/page/2/ 中下载httrack 整体爬取下来. 使用教程请参考 https://www.cnblogs.com/dunitian/p/5061954.html 。
+
+
 **请注意要把修改涉及到的所有html文件都下载下来**，比如有时候改了一页，其他页的链接变化时，要把所有变化的html页面下载下来。
 
 #### 上传到系统
 
 按照层级关系，将所有对应的`html`文件上传到系统上即可，上传过程请小心确认，如不知道上传路径，可参考对应页面在 hust-biac.github.io 中的地址，如`https://hust-biac.github.io/contributions/prize/`对应的文件（`index.html`）应该上传到`/contributions/prize/index.html` 。
+
+请注意⚠️：如果有更新首页的需求，请修改 `index.jsp` 并上传新的 `index.html`(两个文件的内容请务必保持一致)。 修改完成后，点击系统左下角`发布网站`即可。
 
 #### 检查
 
@@ -156,4 +162,5 @@ cover-img: /assets/img/title.jpg
 ## 结束
 
 请在上传所有材料时小心谨慎，尤其不要`force push`。
-Good Luck！
+Good Luck！ from CH·Wong
+Good Luck！ from S·Ye
