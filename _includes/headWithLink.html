@@ -39,10 +39,6 @@
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
 
-  {% if site.rss-description %}
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
-  {% endif %}
-
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
       {% include ext-css.html css=css %}
@@ -73,49 +69,6 @@
     {% endfor %}
   {% endif %}
 
-  {% if site.fb_app_id %}
-  <meta property="fb:app_id" content="{{ site.fb_app_id }}">
-  {% endif %}
-
-  {% if site.title %}
-  <meta property="og:site_name" content="{{ site.title }}">
-  {% endif %}
-
-  {%- capture img -%}
-    {%- if page.share-img -%}
-      {{ page.share-img }}
-    {%- elsif page.cover-img -%}
-      {%- if page.cover-img.first -%}
-        {{ page.cover-img[0].first.first }}
-      {%- else -%}
-        {{ page.cover-img }}
-      {%- endif -%}
-    {%- elsif page.thumbnail-img -%}
-      {{ page.thumbnail-img }}
-    {%- elsif site.avatar -%}
-      {{ site.avatar }}
-    {% endif %}
-  {%- endcapture -%}
-  {%- assign img=img | strip -%}
-
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description }}">
-
-  {% if img != "" %}
-  <meta property="og:image" content="{{ img | absolute_url }}">
-  {% endif %}
-
-  {% if page.id %}
-  <meta property="og:type" content="article">
-  <meta property="og:article:author" content="{{ site.author }}">
-  <meta property="og:article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
-  {% else %}
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}">
-  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
-  {% endif %}
 
   <script src="/assets/js/jquery.min.js"></script>
 
